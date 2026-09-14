@@ -7,8 +7,10 @@
 .trash/
 
 # Secretos: NUNCA al repo (lección del vault innova, que estuvo público con credenciales)
-accesos.md
-**/accesos.md
+# OJO: ACCESOS.md (mayúscula) es el puntero real y se versiona a propósito
+# (nunca tiene secretos, solo dice dónde viven). No agregar un patrón que lo
+# alcance: en filesystems case-insensitive (default en Mac) "accesos.md" en
+# minúscula también matchea "ACCESOS.md" y lo bloquearía sin que nadie lo note.
 *.env
 .env*
 .mcp.json

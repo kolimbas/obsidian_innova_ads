@@ -31,7 +31,7 @@ Vault de Obsidian de **Innova Ads**, la unidad de publicidad digital de Innova S
 
 ## Reglas duras
 
-1. **Ningún secreto en el repo.** Tokens de la Marketing API, claves de cuentas, App Passwords: van en `~/.config/innova/ads-<cliente>.env` con `chmod 600`. En el vault solo va `ACCESOS.md` diciendo *dónde* está cada cosa. `.gitignore` bloquea `accesos.md`, `*.env` y `.mcp.json`. El vault innova estuvo público con credenciales adentro; acá no se repite.
+1. **Ningún secreto en el repo.** Tokens de la Marketing API, claves de cuentas, App Passwords: van en `~/.config/innova/ads-<cliente>.env` con `chmod 600`. En el vault solo va `ACCESOS.md` diciendo *dónde* está cada cosa. `.gitignore` bloquea `*.env`, `.mcp.json` y credenciales sueltas; `ACCESOS.md` se versiona a propósito, porque nunca lleva un secreto, solo dice dónde está. El vault innova estuvo público con credenciales adentro; acá no se repite.
 2. **Nunca operar con el usuario del cliente.** Siempre acceso como partner desde el Business Manager de Innova. Si el cliente pasa su login, se le explica por qué no.
 3. **Ninguna campaña se lanza sin `brief.md`, `plan.md` y `tasks.md`** con el plan confirmado por Francisco. Ver [[meta/METODOLOGIA|Metodología]].
 4. **Nunca contactar al cliente desde una automatización** sin que Francisco lo apruebe. Pruebas al mail de Francisco.

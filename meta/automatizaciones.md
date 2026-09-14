@@ -31,6 +31,7 @@ Los flujos n8n **se construyen y documentan en el vault innova** (`n8n/clients/<
 | **Alerta de cuenta** | Anuncio rechazado, cuenta restringida, método de pago fallido: aviso inmediato. | Marketing API / mail de Meta | 🔲 sin construir |
 | **Respuesta inicial en WhatsApp** | Para campañas click-to-WhatsApp: primera respuesta automática en segundos con las 2-3 preguntas de calificación; después sigue una persona. Reusa lo hecho para Alpha Cycles y Hernando Ventas. | Mensaje entrante (WhatsApp Cloud API) | 🔲 sin construir |
 | **Audiencia de clientes → Meta** | Sube la lista de clientes actuales como audiencia personalizada (hasheada) para excluirlos o hacer similares. | Cron semanal | 🔲 sin construir |
+| **Diagnóstico asistido con Claude** | Cuando salta la alerta de CPL o CPM, llama a la API de Claude con los datos de la campaña para que proponga una hipótesis de causa y una acción — no la ejecuta, solo la deja lista para que alguien la revise. | Alerta de CPL / CPM | 🔲 sin construir |
 
 ---
 
@@ -38,6 +39,7 @@ Los flujos n8n **se construyen y documentan en el vault innova** (`n8n/clients/<
 
 - **Token de sistema** de la Marketing API desde el Business Manager de Innova, con permisos `ads_read` (reportes) y `leads_retrieval` (leads). Guardado en `~/.config/innova/ads-<cliente>.env`, nunca en el vault.
 - Para leads: la página del cliente tiene que dar acceso a la app de Innova y aceptar el webhook. Se hace una vez por cliente en el onboarding.
+- Para el diagnóstico asistido: token de la API de Claude, guardado igual que el resto — nunca en el vault. Ver [[meta/playbooks/herramientas-ia|Herramientas de IA]] para el uso manual (sin n8n) vía el conector oficial de Meta.
 - Instancia n8n: la de Innova que corresponda (ver el vault innova).
 
 ---
