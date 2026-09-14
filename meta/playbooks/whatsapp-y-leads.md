@@ -16,11 +16,11 @@ updated: 2026-09-14
 
 ## Tres formas de captar un lead
 
-| Forma | Cómo | Pros | Contras |
-| --- | --- | --- | --- |
-| **Click-to-WhatsApp** | El anuncio abre un chat de WhatsApp con un mensaje precargado | Sin sitio, sin formulario; la conversación es el embudo; funciona muy bien en AR | Leads a veces poco calificados; si nadie contesta rápido, se pierde; medir requiere la API de WhatsApp o disciplina manual |
-| **Formulario instantáneo** (Lead Ads) | El usuario completa un formulario dentro de Meta, con sus datos precargados | Muy barato por lead, sin sitio | Calidad baja si el formulario es "mayor volumen"; el lead no se entera de que mandó nada si no lo llaman rápido |
-| **Landing con formulario o botón** | Sitio propio con píxel | Califica mejor, permite remarketing, mide todo | Necesita sitio y píxel bien puestos; CPL más alto |
+| Forma                                 | Cómo                                                                        | Pros                                                                             | Contras                                                                                                                    |
+| ------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Click-to-WhatsApp**                 | El anuncio abre un chat de WhatsApp con un mensaje precargado               | Sin sitio, sin formulario; la conversación es el embudo; funciona muy bien en AR | Leads a veces poco calificados; si nadie contesta rápido, se pierde; medir requiere la API de WhatsApp o disciplina manual |
+| **Formulario instantáneo** (Lead Ads) | El usuario completa un formulario dentro de Meta, con sus datos precargados | Muy barato por lead, sin sitio                                                   | Calidad baja si el formulario es "mayor volumen"; el lead no se entera de que mandó nada si no lo llaman rápido            |
+| **Landing con formulario o botón**    | Sitio propio con píxel                                                      | Califica mejor, permite remarketing, mide todo                                   | Necesita sitio y píxel bien puestos; CPL más alto                                                                          |
 
 Elección por defecto para servicios locales: **click-to-WhatsApp** si el cliente contesta rápido (o tiene bot); **formulario instantáneo de mayor intención** si no.
 

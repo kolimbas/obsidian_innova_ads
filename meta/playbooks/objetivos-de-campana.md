@@ -16,14 +16,14 @@ updated: 2026-09-14
 
 ## Los seis
 
-| Objetivo | Optimiza para | Cuándo lo usamos |
-| --- | --- | --- |
-| **Reconocimiento** | Alcance, recuerdo | Casi nunca para PyMEs. Solo lanzamientos locales con presupuesto aparte. |
-| **Tráfico** | Clicks o visitas a la página de destino | Solo si no hay forma de medir nada más. Trae clicks, no clientes. |
-| **Interacción** | Mensajes, interacciones con la publicación, reproducciones | Click-to-WhatsApp o Messenger cuando el negocio vende conversando. |
-| **Clientes potenciales** | Leads: formulario instantáneo, conversiones en el sitio, llamadas, mensajes | Servicios, turnos, cotizaciones. El objetivo por defecto para la mayoría de nuestros clientes. |
-| **Promoción de la app** | Instalaciones y eventos en app | Solo si el cliente tiene app. |
-| **Ventas** | Compras, carritos, conversiones de valor | E-commerce y todo lo que se paga online. También sirve para leads de alta intención si el píxel tiene volumen. |
+| Objetivo                 | Optimiza para                                                               | Cuándo lo usamos                                                                                               |
+| ------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Reconocimiento**       | Alcance, recuerdo                                                           | Casi nunca para PyMEs. Solo lanzamientos locales con presupuesto aparte.                                       |
+| **Tráfico**              | Clicks o visitas a la página de destino                                     | Solo si no hay forma de medir nada más. Trae clicks, no clientes.                                              |
+| **Interacción**          | Mensajes, interacciones con la publicación, reproducciones                  | Click-to-WhatsApp o Messenger cuando el negocio vende conversando.                                             |
+| **Clientes potenciales** | Leads: formulario instantáneo, conversiones en el sitio, llamadas, mensajes | Servicios, turnos, cotizaciones. El objetivo por defecto para la mayoría de nuestros clientes.                 |
+| **Promoción de la app**  | Instalaciones y eventos en app                                              | Solo si el cliente tiene app.                                                                                  |
+| **Ventas**               | Compras, carritos, conversiones de valor                                    | E-commerce y todo lo que se paga online. También sirve para leads de alta intención si el píxel tiene volumen. |
 
 ---
 

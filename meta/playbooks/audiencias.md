@@ -16,12 +16,12 @@ updated: 2026-09-14
 
 ## Tipos
 
-| Tipo | Qué es | Cuándo |
-| --- | --- | --- |
-| **Amplia** | Solo país/región, edad, género. Con audiencia Advantage+, Meta sale de los límites si encuentra mejor gente. | Por defecto. Con creativos que hablen al público correcto, la amplia gana en costo la mayoría de las veces. |
-| **Intereses y comportamientos** (segmentación detallada) | Intereses declarados o inferidos. | Cuando la amplia no arranca (cuenta nueva sin señal) o el producto es de nicho. Elegir 1-3 intereses grandes, no 20 chicos. |
-| **Personalizadas** | Gente que ya interactuó: visitó el sitio (30/90/180 días), miró un video, interactuó con la página o IG, abrió un formulario, está en una lista de clientes. | Remarketing y exclusiones. La lista de clientes se sube hasheada; se necesita mail o teléfono. |
-| **Similares** (lookalike) | Meta busca gente parecida a una personalizada. 1% es más parecida y más chica; 5-10% más amplia. | Cuando hay una fuente buena: mínimo 100 personas de un mismo país, mejor entre 1.000 y 50.000 compradores o leads calificados. |
+| Tipo                                                     | Qué es                                                                                                                                                       | Cuándo                                                                                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Amplia**                                               | Solo país/región, edad, género. Con audiencia Advantage+, Meta sale de los límites si encuentra mejor gente.                                                 | Por defecto. Con creativos que hablen al público correcto, la amplia gana en costo la mayoría de las veces.                    |
+| **Intereses y comportamientos** (segmentación detallada) | Intereses declarados o inferidos.                                                                                                                            | Cuando la amplia no arranca (cuenta nueva sin señal) o el producto es de nicho. Elegir 1-3 intereses grandes, no 20 chicos.    |
+| **Personalizadas**                                       | Gente que ya interactuó: visitó el sitio (30/90/180 días), miró un video, interactuó con la página o IG, abrió un formulario, está en una lista de clientes. | Remarketing y exclusiones. La lista de clientes se sube hasheada; se necesita mail o teléfono.                                 |
+| **Similares** (lookalike)                                | Meta busca gente parecida a una personalizada. 1% es más parecida y más chica; 5-10% más amplia.                                                             | Cuando hay una fuente buena: mínimo 100 personas de un mismo país, mejor entre 1.000 y 50.000 compradores o leads calificados. |
 
 ---
 
