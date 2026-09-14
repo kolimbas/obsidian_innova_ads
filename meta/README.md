@@ -33,7 +33,7 @@ updated: 2026-09-14
 ```
 meta/clientes/<slug>/
 ├── README.md              contexto operativo: cuenta, píxel, embudo, KPIs, umbrales
-├── ACCESOS.md             dónde viven las claves (nunca las claves)
+├── ACCESOS-PUNTERO.md     dónde viven las claves (nunca las claves)
 ├── campanas/
 │   └── YYYY-MM-<slug>/    brief · research · plan · tasks · resultados · retro
 ├── creativos/             una nota por pieza o por tanda, con qué se probó y qué pasó

@@ -7,10 +7,12 @@
 .trash/
 
 # Secretos: NUNCA al repo (lección del vault innova, que estuvo público con credenciales)
-# OJO: ACCESOS.md (mayúscula) es el puntero real y se versiona a propósito
-# (nunca tiene secretos, solo dice dónde viven). No agregar un patrón que lo
-# alcance: en filesystems case-insensitive (default en Mac) "accesos.md" en
-# minúscula también matchea "ACCESOS.md" y lo bloquearía sin que nadie lo note.
+# accesos.md (cualquier mayúscula/minúscula) queda bloqueado: es el archivo que en el
+# vault innova terminó público con credenciales. En Mac (core.ignorecase) el patrón
+# también alcanza a ACCESOS.md, por eso el PUNTERO (sin secretos, que sí se versiona)
+# se llama ACCESOS-PUNTERO.md y no colisiona.
+accesos.md
+**/accesos.md
 *.env
 .env*
 .mcp.json

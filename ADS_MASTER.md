@@ -74,7 +74,7 @@ Gestión de campañas en Meta para PyMEs argentinas que necesitan **leads o vent
 
 | Cliente | Objetivo | Estado | Fase |
 | --- | --- | --- | --- |
-| *(todavía ninguno)* | | | |
+| Innova (interno) | ⚙️ Leads por WhatsApp para agentes de IA | 🟡 Planificada | 3 |
 
 ---
 
@@ -98,7 +98,8 @@ Gestión de campañas en Meta para PyMEs argentinas que necesitan **leads o vent
 
 ## Pendientes globales
 
-- [ ] Definir precios (setup, fee mínimo, política sobre la pauta)
+- [ ] Validar la hoja de precios borrador (`clientes/precios.md`)
 - [ ] Crear el Business Manager de Innova Ads (o usar el de Innova) y verificarlo
-- [ ] Armar 1 caso propio para mostrar: pautar Innova con presupuesto chico y documentarlo como si fuera un cliente
+- [x] Armar 1 caso propio: campaña de Innova planificada en `meta/clientes/innova/` (2026-09-14) → falta lanzarla
 - [ ] Definir la plantilla de reporte que ve el cliente (Sheet o Looker)
+- [ ] Que el contador/abogado revise `meta/templates/acuerdo-de-gestion.md` antes del primer cliente

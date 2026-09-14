@@ -32,7 +32,7 @@ updated: 2026-09-14
 ## Cómo pedir acceso (paso a paso para el cliente)
 
 1. El cliente entra a `business.facebook.com` → Configuración → Usuarios → **Socios** → *Agregar* → *Dar acceso a un socio a tus activos*.
-2. Pega el **ID del Portfolio de Innova** (guardarlo en `ACCESOS.md` del cliente como puntero; el ID no es secreto).
+2. Pega el **ID del Portfolio de Innova** (guardarlo en `ACCESOS-PUNTERO.md` del cliente; el ID no es secreto).
 3. Marca: página (administrar), cuenta publicitaria (administrar campañas), píxel (administrar), Instagram, WhatsApp.
 4. Innova ve los activos en su Portfolio y asigna a las personas del equipo.
 

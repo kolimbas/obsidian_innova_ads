@@ -21,7 +21,7 @@ Vault de Obsidian de **Innova Ads**, la unidad de publicidad digital de Innova S
 - **`meta/`** — base operativa de Meta Ads. Lo más crítico.
   - `meta/METODOLOGIA.md` — Spec Kit por campaña (brief → research → plan → tasks → resultados → retro).
   - `meta/playbooks/` — conocimiento reutilizable de la plataforma.
-  - `meta/clientes/<slug>/` — trabajo operativo por cliente: README, ACCESOS (puntero), `campanas/`, `creativos/`, `reportes/`.
+  - `meta/clientes/<slug>/` — trabajo operativo por cliente: README, ACCESOS-PUNTERO (dónde viven las claves), `campanas/`, `creativos/`, `reportes/`.
   - `meta/templates/` — plantillas. Se copian, no se editan.
 - **`workflows/`** — procesos internos repetibles (onboarding, lanzamiento, ciclo semanal, reporte).
 - **`research/`** — novedades de la plataforma y benchmarks, por fecha.
@@ -31,7 +31,7 @@ Vault de Obsidian de **Innova Ads**, la unidad de publicidad digital de Innova S
 
 ## Reglas duras
 
-1. **Ningún secreto en el repo.** Tokens de la Marketing API, claves de cuentas, App Passwords: van en `~/.config/innova/ads-<cliente>.env` con `chmod 600`. En el vault solo va `ACCESOS.md` diciendo *dónde* está cada cosa. `.gitignore` bloquea `*.env`, `.mcp.json` y credenciales sueltas; `ACCESOS.md` se versiona a propósito, porque nunca lleva un secreto, solo dice dónde está. El vault innova estuvo público con credenciales adentro; acá no se repite.
+1. **Ningún secreto en el repo.** Tokens de la Marketing API, claves de cuentas, App Passwords: van en `~/.config/innova/ads-<cliente>.env` con `chmod 600`. En el vault solo va `ACCESOS-PUNTERO.md` diciendo *dónde* está cada cosa. `.gitignore` bloquea `accesos.md` (en cualquier mayúscula, por eso el puntero se llama distinto), `*.env`, `.mcp.json` y `credenciales/`. El vault innova estuvo público con credenciales adentro; acá no se repite.
 2. **Nunca operar con el usuario del cliente.** Siempre acceso como partner desde el Business Manager de Innova. Si el cliente pasa su login, se le explica por qué no.
 3. **Ninguna campaña se lanza sin `brief.md`, `plan.md` y `tasks.md`** con el plan confirmado por Francisco. Ver [[meta/METODOLOGIA|Metodología]].
 4. **Nunca contactar al cliente desde una automatización** sin que Francisco lo apruebe. Pruebas al mail de Francisco.

@@ -20,13 +20,17 @@ updated: 2026-09-14
 
 | Cliente | Objetivo | Estado | Fase | Pauta mensual |
 | --- | --- | --- | --- | --- |
-| *(todavía ninguno)* | | | | |
+| [[clientes/innova\|Innova (interno)]] | Leads por WhatsApp · agentes de IA | 🟡 Planificada | 3 | USD 300 (test) |
 
 Estados posibles: 🔵 Pre-venta · 🟡 Setup · 🟢 Activo · ⏸️ Pausado · ⚫ Cerrado.
 
 ---
 
-## Cómo se cotiza (propuesta inicial, a validar)
+## Cómo se cotiza
+
+Hoja de precios borrador: [[clientes/precios|precios]]. Lo que recibe el cliente: plantilla de [[meta/templates/propuesta-comercial|propuesta]] y [[meta/templates/acuerdo-de-gestion|acuerdo de gestión]].
+
+### Resumen (propuesta inicial, a validar)
 
 > [!warning] Números orientativos para arrancar la conversación
 > Francisco define los finales. La idea es cobrar por lo que Innova hace, no por lo que gasta el cliente en Meta.

@@ -26,7 +26,7 @@ updated: {{date:YYYY-MM-DD}}
 
 ## Creativos
 
-- [ ] Brief de creativos enviado al cliente (qué material necesitamos)
+- [ ] Guía de material enviada al cliente (`meta/templates/brief-creativos.md`)
 - [ ] Material recibido
 - [ ] Piezas producidas en 4:5 y 9:16 (mínimo 3 ángulos × 2 formatos)
 - [ ] Textos: 3 principales × 3 títulos

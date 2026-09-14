@@ -28,7 +28,7 @@ updated: {{date:YYYY-MM-DD}}
 | WhatsApp Business | +54 … | Cliente | — |
 | Dominio verificado | … | — | ✅ / ⬜ |
 
-Claves y tokens: ver `ACCESOS.md` (punteros, sin valores).
+Claves y tokens: ver `ACCESOS-PUNTERO.md` (punteros, sin valores).
 
 ---
 

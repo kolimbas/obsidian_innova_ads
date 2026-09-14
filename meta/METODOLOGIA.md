@@ -26,7 +26,9 @@ updated: 2026-09-14
 | `resultados.md` | **¿Qué pasó?** Tabla semanal de métricas, decisiones tomadas y por qué. | Se va llenando mientras corre. |
 | `retro.md` | **¿Qué aprendimos?** Qué funcionó, qué no, qué se promueve a playbook, tiempo invertido. | Al cerrar o al mes de correr. |
 
-Plantillas: [[meta/templates/brief|brief]] · [[meta/templates/research|research]] · [[meta/templates/plan|plan]] · [[meta/templates/tasks|tasks]] · [[meta/templates/resultados|resultados]] · [[meta/templates/retro|retro]] · [[meta/templates/creativo|creativo]] · [[meta/templates/reporte-semanal|reporte semanal]] · [[meta/templates/cliente-README|README de cliente]] · [[meta/templates/ACCESOS|ACCESOS]] · [[meta/templates/ficha-cliente|ficha comercial]].
+Plantillas: [[meta/templates/brief|brief]] · [[meta/templates/research|research]] · [[meta/templates/plan|plan]] · [[meta/templates/tasks|tasks]] · [[meta/templates/resultados|resultados]] · [[meta/templates/retro|retro]] · [[meta/templates/creativo|creativo]] · [[meta/templates/reporte-semanal|reporte semanal]] · [[meta/templates/cliente-README|README de cliente]] · [[meta/templates/ACCESOS-PUNTERO|ACCESOS-PUNTERO]] · [[meta/templates/ficha-cliente|ficha comercial]] · [[meta/templates/propuesta-comercial|propuesta comercial]] · [[meta/templates/acuerdo-de-gestion|acuerdo de gestión]] · [[meta/templates/auditoria-cuenta|auditoría de cuenta]] · [[meta/templates/brief-creativos|brief de creativos]].
+
+Un bundle completo de ejemplo, con las plantillas llenas: [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|Innova · 2026-10 · agentes IA · leads]].
 
 ---
 

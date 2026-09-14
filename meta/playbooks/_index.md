@@ -29,6 +29,7 @@ updated: 2026-09-14
 | [[meta/playbooks/reporting\|Reporting]] | Qué ve el cliente, cada cuánto, UTMs y columnas. |
 | [[meta/playbooks/whatsapp-y-leads\|WhatsApp y leads]] | Click-to-WhatsApp, formularios instantáneos, calidad del lead, velocidad de respuesta. |
 | [[meta/playbooks/herramientas-ia\|Herramientas de IA]] | Conector oficial de Meta Ads para Claude: qué automatiza, qué no, y el camino n8n + API para lo que falta. |
+| [[meta/playbooks/glosario\|Glosario]] | Ads Manager en español ↔ documentación en inglés, término por término. |
 
 ---
 

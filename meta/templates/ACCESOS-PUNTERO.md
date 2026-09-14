@@ -9,7 +9,7 @@ updated: {{date:YYYY-MM-DD}}
 
 # 🔑 Accesos de <Cliente> — dónde están
 
-> **Acá no hay ningún secreto y no lo va a haber.** Este archivo dice dónde viven las claves, nada más. `.gitignore` bloquea `*.env` y el resto de credenciales; este puntero (`ACCESOS.md`) se versiona a propósito.
+> **Acá no hay ningún secreto y no lo va a haber.** Este archivo dice dónde viven las claves, nada más. `.gitignore` bloquea `accesos.md` (en cualquier mayúscula), `*.env` y `credenciales/`; por eso este puntero se llama `ACCESOS-PUNTERO.md` y sí se versiona.
 
 ---
 
