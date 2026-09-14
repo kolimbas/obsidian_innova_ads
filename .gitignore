@@ -1,0 +1,27 @@
+# Obsidian — archivos personales que no se comparten
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Papelera de Obsidian
+.trash/
+
+# Secretos: NUNCA al repo (lección del vault innova, que estuvo público con credenciales)
+accesos.md
+**/accesos.md
+*.env
+.env*
+.mcp.json
+credenciales/
+**/credenciales/
+*.pem
+*.key
+
+# Scratch y sistema
+.scratch/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+node_modules/

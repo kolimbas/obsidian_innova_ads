@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#playbook",
+      "color": {
+        "a": 1,
+        "rgb": 4886754
+      }
+    },
+    {
+      "query": "tag:#campana",
+      "color": {
+        "a": 1,
+        "rgb": 16750899
+      }
+    },
+    {
+      "query": "tag:#nivel-0",
+      "color": {
+        "a": 1,
+        "rgb": 14724139
+      }
+    },
+    {
+      "query": "tag:#nivel-1",
+      "color": {
+        "a": 1,
+        "rgb": 1752220
+      }
+    },
+    {
+      "query": "tag:#nivel-2",
+      "color": {
+        "a": 1,
+        "rgb": 11894492
+      }
+    },
+    {
+      "query": "tag:#nivel-3",
+      "color": {
+        "a": 1,
+        "rgb": 8313175
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.41870930989583,
+  "lineSizeMultiplier": 1.63882649739583,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 11.1181640625,
+  "linkStrength": 1,
+  "linkDistance": 245,
+  "scale": 0.03955078125,
+  "close": true
+}
