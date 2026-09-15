@@ -14,7 +14,6 @@ updated: {{date:YYYY-MM-DD}}
 > Una fila por semana, y cada decisión con fecha y motivo. Es la memoria de la campaña: sin esto, el retro se inventa.
 
 KPI: … · Umbral: …
-
 ---
 
 ## Semana a semana

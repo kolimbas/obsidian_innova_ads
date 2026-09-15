@@ -11,7 +11,6 @@ updated: 2026-09-14
 > Todos los lunes, por cada cliente activo, en este orden. Una hora por cliente si está ordenado. Lo que se decide se escribe en `resultados.md` antes de tocar la campaña.
 
 ← Volver a [[workflows/workflows|Workflows]]
-
 ---
 
 ## 1. Salud (5 min)

@@ -17,7 +17,6 @@ updated: 2026-09-14
 # Brief — Innova · 2026-10 · agentes de IA · leads
 
 > Ejemplo completo de brief. Cliente: Innova misma. Todo lo que dice acá se puede ejecutar tal cual.
-
 ---
 
 ## Oferta

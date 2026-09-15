@@ -13,7 +13,6 @@ updated: {{date:YYYY-MM-DD}}
 # Creativo — <ángulo> · <formato> · v1
 
 > Una nota por pieza o por tanda. Qué dice, dónde está el archivo, qué pasó cuando corrió.
-
 ---
 
 ## Pieza

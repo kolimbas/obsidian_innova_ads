@@ -11,7 +11,6 @@ updated: 2026-09-14
 > El objetivo le dice a Meta a quién mostrarle el anuncio: a la gente que suele hacer *eso*. Elegir mal el objetivo es la forma más cara de equivocarse.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Los seis

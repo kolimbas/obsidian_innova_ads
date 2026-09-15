@@ -11,7 +11,6 @@ updated: 2026-09-14
 > Cómo se ordenan los activos de Meta y cómo Innova accede a los de un cliente sin usar su usuario.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Las piezas

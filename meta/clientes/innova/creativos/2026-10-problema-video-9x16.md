@@ -8,7 +8,6 @@ campaign: 2026-10-agentes-ia-leads
 angulo: problema
 formato: video-9x16
 updated: 2026-09-14
-
 ---
 
 # Creativo — Problema · Video 9:16 · v1

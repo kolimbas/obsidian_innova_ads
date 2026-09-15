@@ -13,7 +13,6 @@ updated: 2026-09-14
 > Cambios de la plataforma, novedades de Meta, benchmarks propios. Una nota por fecha. Lo que cambia cómo trabajamos se pasa al playbook correspondiente.
 
 ← Volver a [[ADS_MASTER]]
-
 ---
 
 | Fecha | Tema |

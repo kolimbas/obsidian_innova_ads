@@ -12,7 +12,6 @@ updated: {{date:YYYY-MM-DD}}
 # Retro — <Cliente> · <campaña>
 
 > Obligatorio al cerrar, y al mes si sigue. Tres viñetas alcanzan si la campaña fue chica; cero no.
-
 ---
 
 ## Números finales

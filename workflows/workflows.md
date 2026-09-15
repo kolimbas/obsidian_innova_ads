@@ -13,7 +13,6 @@ updated: 2026-09-14
 > Procesos internos repetibles de Innova Ads. No son campañas ni flujos n8n: son lo que hace el equipo, en orden, cada vez.
 
 ← Volver a [[ADS_MASTER]]
-
 ---
 
 | Workflow | Cuándo |

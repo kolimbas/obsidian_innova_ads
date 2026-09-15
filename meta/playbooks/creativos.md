@@ -11,7 +11,6 @@ updated: 2026-09-14
 > El creativo es la segmentación. Meta le muestra cada anuncio a la gente que reacciona a *ese* anuncio. Variedad de ángulos y formatos es lo que le da al sistema espacio para encontrar clientes.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Medidas y formatos

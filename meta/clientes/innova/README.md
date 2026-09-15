@@ -14,7 +14,6 @@ updated: 2026-09-14
 > Caso propio. Lo comercial está en [[clientes/innova|clientes/innova]]. Este README es el ejemplo de cómo queda el de un cliente cuando está completo.
 
 ← Volver a [[meta/clientes/_index|Clientes]]
-
 ---
 
 ## Cuenta

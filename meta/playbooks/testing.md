@@ -11,7 +11,6 @@ updated: 2026-09-14
 > Probar es cambiar **una** cosa, con presupuesto suficiente, el tiempo necesario, y decidir con un criterio escrito antes de ver los datos. Todo lo demás es mirar números y contarse un cuento.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Qué vale la pena testear, en orden

@@ -5,7 +5,6 @@ tags:
   - nivel-2
 client: innova
 updated: 2026-09-14
-
 ---
 
 # 🔑 Accesos de Innova (interno) — dónde están

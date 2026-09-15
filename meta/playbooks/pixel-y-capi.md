@@ -11,7 +11,6 @@ updated: 2026-09-14
 > Sin medición no hay optimización. Meta aprende de los eventos que le mandamos; si le mandamos pocos o mal, aprende poco o mal.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Las dos vías

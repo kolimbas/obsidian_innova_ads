@@ -11,7 +11,6 @@ updated: 2026-09-14
 > Nace antes de un retro real, por decisión explícita — normalmente un playbook sale de una lección con más de un cliente encima, y acá todavía no hay ninguno. Se corrige o se descarta apenas haya una cuenta real probándolo. Fuentes y contexto en research del 14-09 (`research/2026-09-14`).
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Conector oficial de Meta Ads para Claude

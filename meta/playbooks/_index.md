@@ -12,7 +12,6 @@ updated: 2026-09-14
 > Lo que sabemos de la plataforma, ordenado por tema. Cada playbook dice **qué hacer, qué no, y cómo saber si va bien**. Se corrigen con cada retro; la fecha de `updated` dice qué tan fresco está.
 
 ← Volver a [[meta/README|Meta Ads KB]]
-
 ---
 
 | Playbook | Para qué |

@@ -17,7 +17,6 @@ updated: {{date:YYYY-MM-DD}}
 # Brief — <Cliente> · <campaña>
 
 > Qué quiere el cliente y qué vale conseguirlo. Sin el número de "cuánto vale un cliente" no se sigue.
-
 ---
 
 ## Oferta

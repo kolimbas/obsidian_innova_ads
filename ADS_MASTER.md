@@ -10,7 +10,6 @@ updated: 2026-09-14
 # 📣 INNOVA ADS
 
 > Unidad de publicidad digital de Innova Solutions. Arranca con **Meta Ads** (Facebook + Instagram + Messenger + WhatsApp) gestionado para clientes. Hermano del vault `obsidian_innova` (webs y automatización): mismas convenciones, mismo equipo.
-
 ---
 
 ## Qué vendemos

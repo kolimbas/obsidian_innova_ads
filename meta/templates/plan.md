@@ -12,7 +12,6 @@ updated: {{date:YYYY-MM-DD}}
 # Plan — <Cliente> · <campaña>
 
 > Cómo se arma. Nada se crea en Ads Manager hasta que Francisco confirma esto.
-
 ---
 
 ## Objetivo y evento

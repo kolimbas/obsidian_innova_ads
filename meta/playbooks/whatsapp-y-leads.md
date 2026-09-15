@@ -11,7 +11,6 @@ updated: 2026-09-14
 > En Argentina el negocio se cierra por WhatsApp. La campaña que trae el lead es la mitad; la otra mitad es contestarlo en minutos. Acá es donde Innova Ads e Innova (automatización) son el mismo producto.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Tres formas de captar un lead

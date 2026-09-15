@@ -12,7 +12,6 @@ updated: 2026-09-14
 > **BORRADOR para que Francisco lo valide.** Números de arranque para cotizar las primeras cuentas; se ajustan con los primeros dos o tres clientes. Todo en USD; se convierte a pesos con el dólar blue de dolarhoy.com del día del cobro.
 
 ← Volver a [[clientes/clientes|Clientes]]
-
 ---
 
 ## Qué se cobra y qué no

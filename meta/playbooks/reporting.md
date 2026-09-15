@@ -11,7 +11,6 @@ updated: 2026-09-14
 > El cliente tiene que poder contestar en 30 segundos: ¿cuánto gasté, cuánto conseguí, a qué costo, y qué van a hacer ustedes esta semana? Todo lo demás va después, si lo pide.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
-
 ---
 
 ## Cadencia

@@ -12,7 +12,6 @@ updated: 2026-09-14
 > Dónde Innova Ads se conecta con Innova (n8n). La pauta trae el lead; estos flujos hacen que no se enfríe y que el cliente vea qué pasa sin pedirlo.
 
 ← Volver a [[meta/README|Meta Ads KB]]
-
 ---
 
 ## Regla
