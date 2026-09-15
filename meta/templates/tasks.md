@@ -12,6 +12,7 @@ updated: {{date:YYYY-MM-DD}}
 # Tasks — <Cliente> · <campaña>
 
 > Checklist ordenado. Cada tarea se puede verificar. Se tildan a medida que se hacen; lo que se desvía del plan, se corrige en el plan.
+
 ---
 
 ## Setup

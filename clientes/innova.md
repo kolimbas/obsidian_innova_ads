@@ -12,6 +12,7 @@ updated: 2026-09-14
 # INNOVA (interno)
 
 > Innova pautando a Innova. Es el caso propio que sirve para tres cosas: conseguir leads para la unidad de agentes de IA, aprender con plata propia antes de tocar la de un cliente, y tener un bundle completo de ejemplo en el vault.
+
 ---
 
 ## Contacto clave

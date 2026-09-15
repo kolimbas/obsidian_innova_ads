@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Una línea por cosa aprendida. Fecha, cliente (o "general"), qué pasó, qué hacemos distinto. Se alimenta desde cada `retro.md`.
 
 ← Volver a [[meta/README|Meta Ads KB]]
+
 ---
 
 | Fecha | Cliente | Lección |

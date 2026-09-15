@@ -12,6 +12,7 @@ updated: 2026-09-14
 > Ads Manager en español, la documentación y los tutoriales en inglés. Para que todo el equipo hable igual: cómo aparece en la interfaz, cómo aparece en inglés, y qué es en una línea.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
+
 ---
 
 ## Estructura y cuenta

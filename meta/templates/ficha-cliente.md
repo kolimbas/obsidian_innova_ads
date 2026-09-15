@@ -11,6 +11,7 @@ updated: {{date:YYYY-MM-DD}}
 # NOMBRE DEL CLIENTE
 
 > Qué vende · quién es el contacto · fecha de la propuesta
+
 ---
 
 ## Contacto clave

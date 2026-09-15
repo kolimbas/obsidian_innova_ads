@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Cierre de mes por cliente. Es la reunión donde se decide seguir, escalar o replantear, y donde se cobra el mes siguiente.
 
 ← Volver a [[workflows/workflows|Workflows]]
+
 ---
 
 ## Antes de la reunión

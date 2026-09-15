@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Meta necesita datos para aprender y tiempo para aplicarlos. El presupuesto define cuánto aprende; la paciencia, si le dejamos usar lo aprendido.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
+
 ---
 
 ## Cuánto hace falta

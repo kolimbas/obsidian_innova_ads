@@ -10,6 +10,7 @@ updated: {{date:YYYY-MM-DD}}
 # Propuesta — Meta Ads para <Cliente>
 
 > Lo que recibe el cliente después de la reunión de brief. Dos carillas, en su idioma, sin jerga. Se manda como PDF (o Google Doc) el mismo día o al siguiente. Precios desde *la hoja de precios* (`clientes/precios`).
+
 ---
 
 ## 1. Lo que entendimos

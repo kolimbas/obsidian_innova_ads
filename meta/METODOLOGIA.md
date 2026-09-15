@@ -12,6 +12,7 @@ updated: 2026-09-14
 > Regla dura: **ninguna campaña se crea en Ads Manager hasta que existen `brief.md`, `research.md`, `plan.md` y `tasks.md`, y Francisco confirmó el plan.** Es la misma lógica que el Spec Kit de n8n en el vault innova, adaptada a pauta.
 
 ← Volver a [[meta/README|Meta Ads KB]]
+
 ---
 
 ## Los seis artefactos

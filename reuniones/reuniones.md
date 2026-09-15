@@ -13,6 +13,7 @@ updated: 2026-09-14
 > Actas cortas: fecha, con quién, qué se decidió, qué quedó pendiente. Una nota por reunión, `YYYY-MM-DD-<cliente>.md`.
 
 ← Volver a [[ADS_MASTER]]
+
 ---
 
 | Fecha | Con quién | Tema |

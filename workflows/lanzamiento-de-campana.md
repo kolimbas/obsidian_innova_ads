@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Checklist previo a publicar. Se pasa entero, siempre, aunque sea la décima campaña del cliente. Lo que más plata quema son los errores tontos del día 1.
 
 ← Volver a [[workflows/workflows|Workflows]]
+
 ---
 
 ## Antes de abrir Ads Manager

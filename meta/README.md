@@ -12,6 +12,7 @@ updated: 2026-09-14
 > Base operativa de Meta Ads de Innova. Todo lo que se aprende gestionando cuentas se guarda acá para que la segunda campaña sea más barata que la primera.
 
 ← Volver a [[ADS_MASTER]]
+
 ---
 
 ## Mapa

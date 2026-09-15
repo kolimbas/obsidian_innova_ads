@@ -9,6 +9,7 @@ updated: 2026-09-14
 # CLAUDE.md — Instrucciones del vault
 
 > Leer antes de tocar cualquier cosa acá. Punto de entrada del vault: [[ADS_MASTER]].
+
 ---
 
 ## Qué es este vault

@@ -11,6 +11,7 @@ updated: 2026-09-14
 > El sistema de Meta encuentra gente mejor que nosotros, siempre que le demos señal (píxel, conversiones) y variedad (creativos). La segmentación fina es cada vez más un techo que un piso.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
+
 ---
 
 ## Tipos

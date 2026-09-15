@@ -13,6 +13,7 @@ updated: 2026-09-14
 > Hub comercial de Innova Ads. Una ficha por cliente: quién es, qué vende, cuánto paga, en qué fase está.
 
 ← Volver a [[ADS_MASTER]]
+
 ---
 
 ## Cartera actual

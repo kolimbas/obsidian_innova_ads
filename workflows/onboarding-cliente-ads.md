@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Desde que dice que sí hasta que se puede lanzar. Objetivo: que el plazo comercial arranque con todo en la mano, no con promesas.
 
 ← Volver a [[workflows/workflows|Workflows]]
+
 ---
 
 ## 1. Comercial (día 0)

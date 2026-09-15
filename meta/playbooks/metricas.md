@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Se mira **un** número para decidir (el KPI del brief) y tres o cuatro para entender por qué. Todo lo demás es ruido para el cliente.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
+
 ---
 
 ## Las que importan

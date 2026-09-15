@@ -12,6 +12,7 @@ updated: 2026-09-14
 > Vista viva del estado operativo. Requiere el plugin Dataview (ya instalado). Si una tabla sale vacía es porque todavía no hay campañas cargadas.
 
 ← Volver a [[meta/README|Meta Ads KB]]
+
 ---
 
 ## Campañas activas

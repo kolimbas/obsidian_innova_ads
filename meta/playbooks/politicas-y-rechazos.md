@@ -11,6 +11,7 @@ updated: 2026-09-14
 > Un anuncio rechazado se arregla en una hora. Una cuenta restringida puede tardar semanas y no siempre vuelve. Se lee la política antes, no después.
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
+
 ---
 
 ## Lo que Meta rechaza seguido en PyMEs

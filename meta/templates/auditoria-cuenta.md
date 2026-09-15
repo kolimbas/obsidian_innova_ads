@@ -10,6 +10,7 @@ updated: {{date:YYYY-MM-DD}}
 # Auditoría de cuenta — <Cliente>
 
 > Primera lectura de una cuenta que ya existe. Una hora. Cada ítem se puntúa 0 (mal / no existe), 1 (a medias) o 2 (bien). Lo que da 0 o 1 pasa a `tasks.md` del onboarding. Los hallazgos van al README del cliente. Con el conector de Claude (playbook *Herramientas de IA*) la lectura de campañas viejas lleva minutos; la conclusión sigue siendo nuestra.
+
 ---
 
 ## 1. Estructura y accesos

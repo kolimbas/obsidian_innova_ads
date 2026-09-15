@@ -12,6 +12,7 @@ updated: 2026-09-14
 > Una carpeta por cliente. Adentro: `README.md` con el contexto operativo, `ACCESOS-PUNTERO.md` con punteros (nunca claves), y `campanas/`, `creativos/`, `reportes/`.
 
 ← Volver a [[meta/README|Meta Ads KB]]
+
 ---
 
 ## Roster

@@ -11,6 +11,7 @@ updated: {{date:YYYY-MM-DD}}
 # Material para los anuncios — guía para <Cliente>
 
 > Se le manda al cliente en el onboarding (mail o WhatsApp), adaptando lo que aplique. Cuanto mejor el material, más barato el lead. Lo que grabás con el celular alcanza; lo "profesional" no hace falta.
+
 ---
 
 ## Qué necesitamos (en orden de importancia)

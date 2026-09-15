@@ -11,6 +11,7 @@ updated: {{date:YYYY-MM-DD}}
 # Reporte semanal — <Cliente> · semana <YYYY-Www>
 
 > Lo que va en el mail del lunes. Cinco a ocho líneas. El detalle está en el Sheet.
+
 ---
 
 **Asunto:** Meta Ads · <Cliente> · semana del <dd/mm>

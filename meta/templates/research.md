@@ -12,6 +12,7 @@ updated: {{date:YYYY-MM-DD}}
 # Research — <Cliente> · <campaña>
 
 > Qué sabemos ya. Puede ser corto, pero la búsqueda se hace.
+
 ---
 
 ## 1. Campañas previas del cliente

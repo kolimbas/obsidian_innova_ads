@@ -10,6 +10,7 @@ updated: {{date:YYYY-MM-DD}}
 # Acuerdo de gestión de Meta Ads — <Cliente>
 
 > Base para el acuerdo que firma (o acepta por mail) cada cliente antes del setup. Está escrito en criollo a propósito: el cliente lo tiene que entender sin abogado. **No es asesoramiento legal**: antes de usarlo con el primer cliente, que lo lea el contador o abogado de Innova y ajuste lo fiscal y lo de responsabilidad.
+
 ---
 
 ## 1. Partes
