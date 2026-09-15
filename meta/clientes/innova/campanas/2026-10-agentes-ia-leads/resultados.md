@@ -7,7 +7,6 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
-← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
@@ -16,6 +15,8 @@ updated: 2026-09-14
 > Todavía no corrió. Las filas marcadas **EJEMPLO** muestran cómo se llena y se borran al lanzar.
 
 KPI: costo por conversación iniciada · Umbral: USD 4 · Válidas: > 40%
+
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 

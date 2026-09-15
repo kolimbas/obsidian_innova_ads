@@ -8,13 +8,14 @@ campaign: 2026-10-agentes-ia-leads
 angulo: problema
 formato: video-9x16
 updated: 2026-09-14
-← Volver a [[meta/clientes/innova/README|Innova · operación]]
 
 ---
 
 # Creativo — Problema · Video 9:16 · v1
 
 > Ejemplo de nota de creativo con el guion completo. Es la pieza principal del test.
+
+← Volver a [[meta/clientes/innova/README|Innova · operación]]
 
 ---
 

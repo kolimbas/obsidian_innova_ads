@@ -7,13 +7,14 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
-← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
 # Tasks — Innova · 2026-10 · agentes de IA · leads
 
 > Ejemplo de checklist vivo. Se tildan a medida que se hacen; lo que se desvía del plan, se corrige en el plan.
+
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 

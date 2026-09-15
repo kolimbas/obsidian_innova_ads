@@ -39,7 +39,7 @@ Hoja de precios borrador: [[clientes/precios|precios]]. Lo que recibe el cliente
 | --- | --- | --- |
 | **Setup** (una vez) | Auditoría de cuenta, píxel + CAPI, verificación de dominio, estructura, brief, primeros 6 creativos, lanzamiento | Equivalente a 1 fee mensual |
 | **Fee mensual** | Optimización semanal, rotación de creativos, reporte mensual, reunión de status | Mínimo fijo en USD; por encima de cierta pauta, un % del gasto |
-| **Pauta** | La paga el cliente directo a Meta desde su cuenta | Mínimo recomendado para que haya datos: ver playbook *presupuesto* |
+| **Pauta** | La paga el cliente directo a Meta desde su cuenta | Mínimo recomendado para que haya datos: ver playbook *Presupuesto y escalado* |
 | **Extras** | Producción de video, landing, automatización de leads (Innova) | Se cotizan aparte |
 
 Cobro: 50% del setup al confirmar, 50% contra lanzamiento. Fee mensual por adelantado. Conversión a pesos con el dólar blue de dolarhoy.com del día.

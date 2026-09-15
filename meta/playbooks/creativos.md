@@ -77,6 +77,6 @@ Voz: rioplatense, tuteo o voseo según la marca, sin frases de agencia. "Turnos 
 ## Qué NO hacer
 
 - Un solo anuncio "el lindo" aprobado por el dueño.
-- Textos con la política de Meta en contra: atributos personales ("¿sos diabético?"), antes-después en salud, promesas de resultado. Ver playbook *Políticas*.
+- Textos con la política de Meta en contra: atributos personales ("¿sos diabético?"), antes-después en salud, promesas de resultado. Ver playbook *Políticas y rechazos*.
 - Imágenes con mucho texto encima: ya no hay regla del 20%, pero sigue rindiendo peor en el celular.
 - Pegar el logo grande en el centro. El feed no es una vidriera.

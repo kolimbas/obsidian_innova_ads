@@ -5,13 +5,14 @@ tags:
   - nivel-2
 client: innova
 updated: 2026-09-14
-← Volver a [[meta/clientes/innova/README|Innova · operación]]
 
 ---
 
 # 🔑 Accesos de Innova (interno) — dónde están
 
 > **Acá no hay ningún secreto y no lo va a haber.** Este archivo dice dónde viven las claves, nada más.
+
+← Volver a [[meta/clientes/innova/README|Innova · operación]]
 
 ---
 

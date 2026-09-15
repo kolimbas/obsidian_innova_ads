@@ -7,13 +7,14 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
-← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
 # Plan — Innova · 2026-10 · agentes de IA · leads
 
 > Ejemplo de plan completo. Nada se crea en Ads Manager hasta que Francisco lo confirme (acá, el cliente es él mismo, pero la regla es la misma).
+
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 

@@ -7,13 +7,14 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
-← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
 # Retro — Innova · 2026-10 · agentes de IA · leads
 
 > Se escribe el 2026-10-19, al cerrar el test. Queda creado vacío a propósito: si existe el archivo, nadie se olvida de llenarlo.
+
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 

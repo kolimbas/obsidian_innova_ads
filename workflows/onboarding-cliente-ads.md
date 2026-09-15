@@ -35,7 +35,7 @@ updated: 2026-09-14
 ## 3. Técnico (día 2-5)
 
 - [ ] Auditoría de la cuenta con el plantilla `auditoria-cuenta`: campañas viejas, audiencias, píxel, Calidad de la cuenta, rechazos. Se anota en el README del cliente.
-- [ ] Píxel + Conversions API instalados y verificados (playbook *checklist*).
+- [ ] Píxel + Conversions API instalados y verificados (plantilla `auditoria-cuenta`).
 - [ ] Dominio verificado.
 - [ ] Audiencias personalizadas base: visitantes 30/90/180, interacción IG/FB 90, lista de clientes si hay.
 - [ ] Si hay WhatsApp: cuenta de WhatsApp Business conectada a la página. Si hay bot o flujo n8n: bundle en el vault innova.

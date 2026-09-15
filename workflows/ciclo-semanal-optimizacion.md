@@ -49,7 +49,7 @@ Cada decisión: fecha, qué, por qué, en `resultados.md`.
 ## 5. Reportar (10 min)
 
 - [ ] Fila de la semana en `resultados.md` y en el Sheet.
-- [ ] Mail del lunes con la plantilla plantilla `reporte-semanal` (o el flujo n8n si ya existe).
+- [ ] Mail del lunes con la plantilla `reporte-semanal` (o el flujo n8n si ya existe).
 - [ ] Si hay algo que el cliente tiene que hacer (contestar más rápido, mandar fotos), va en el mail, con el número que lo justifica.
 
 ## 6. Cerrar

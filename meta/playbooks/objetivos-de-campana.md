@@ -55,7 +55,7 @@ En la práctica arrancamos manual con **ubicaciones Advantage+** y **presupuesto
 
 Dentro de Clientes potenciales o Ventas, el conjunto de anuncios optimiza a **un evento**. Ese evento tiene que:
 
-1. Existir y dispararse bien (ver playbook *Píxel y CAPI*).
+1. Existir y dispararse bien (ver playbook *Píxel y Conversions API*).
 2. Tener volumen (idealmente 50/semana por conjunto).
 3. Estar lo más cerca posible de la venta.
 

@@ -37,7 +37,7 @@ updated: 2026-09-14
 - [ ] Audiencias con las exclusiones que siempre van.
 - [ ] Fecha de fin, si la hay. Sin fecha de fin, la campaña corre hasta que alguien la apague.
 - [ ] Vista previa en feed, stories y reels: nada cortado, subtítulos legibles.
-- [ ] Revisión de políticas del texto y la imagen (playbook *lista*).
+- [ ] Revisión de políticas del texto y la imagen (playbook *Políticas y rechazos*).
 
 ## Publicar
 

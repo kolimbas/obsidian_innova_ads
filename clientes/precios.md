@@ -46,7 +46,7 @@ Cobro: 50% al confirmar, 50% contra lanzamiento. Si el cliente ya tiene píxel y
 
 Se cobra por adelantado, el 1 de cada mes. Sin permanencia: se avisa con 15 días.
 
-**Pauta mínima para aceptar una cuenta: USD 300/mes.** Con menos no hay datos para optimizar y el fee de Innova termina siendo más grande que la pauta; se le dice al cliente que no conviene. Recomendada: USD 600/mes o más (ver playbook *presupuesto*).
+**Pauta mínima para aceptar una cuenta: USD 300/mes.** Con menos no hay datos para optimizar y el fee de Innova termina siendo más grande que la pauta; se le dice al cliente que no conviene. Recomendada: USD 600/mes o más (ver playbook *Presupuesto y escalado*).
 
 ---
 

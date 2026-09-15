@@ -7,13 +7,14 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
-← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
 # Research — Innova · 2026-10 · agentes de IA · leads
 
 > Ejemplo de research corto pero hecho. Primera campaña del vault: no hay historia propia, así que el peso está en playbooks y competencia.
+
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
 
 ---
 
@@ -27,12 +28,12 @@ Ninguna todavía. Lo más cercano es lo aprendido construyendo bots para Alpha C
 
 ## 3. Playbooks que aplican
 
-- playbook *Objetivos* → Clientes potenciales con destino WhatsApp; optimizar a conversaciones iniciadas (no hay píxel con datos).
+- playbook *Objetivos de campaña* → Clientes potenciales con destino WhatsApp; optimizar a conversaciones iniciadas (no hay píxel con datos).
 - playbook *Audiencias* → Cuenta nueva sin señal: amplia AR 28-60 + un conjunto de intereses grandes (pequeñas empresas, emprendimiento, administración de negocios). Excluir empleados y clientes actuales (lista chica).
 - playbook *Creativos* → 3 ángulos × 2 formatos. Video a cámara de Francisco es lo más barato y creíble.
 - playbook *WhatsApp y leads* → El bot de primera respuesta ya existe: es la ventaja. Definir "válido" antes de lanzar (hecho en el brief).
-- playbook *Presupuesto* → 7 × CPL esperado (USD 3) ≈ USD 21/día. Vamos con 20.
-- playbook *Políticas* → Sin categoría especial. Cuidado con "atributos personales" en el texto ("¿perdés clientes?" está bien; "¿sos dueño de una clínica?" no).
+- playbook *Presupuesto y escalado* → 7 × CPL esperado (USD 3) ≈ USD 21/día. Vamos con 20.
+- playbook *Políticas y rechazos* → Sin categoría especial. Cuidado con "atributos personales" en el texto ("¿perdés clientes?" está bien; "¿sos dueño de una clínica?" no).
 
 ## 4. Competencia (Biblioteca de anuncios)
 

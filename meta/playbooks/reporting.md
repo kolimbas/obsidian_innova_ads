@@ -18,11 +18,11 @@ updated: 2026-09-14
 
 | Cuándo | Qué | Formato |
 | --- | --- | --- |
-| **Lunes** | Semana anterior: gasto, resultados, costo por resultado vs. umbral, tendencia, qué hicimos, qué hacemos | Mail de 5-8 líneas + link al Sheet vivo. Plantilla en plantilla `reporte-semanal`. |
+| **Lunes** | Semana anterior: gasto, resultados, costo por resultado vs. umbral, tendencia, qué hicimos, qué hacemos | Mail de 5-8 líneas + link al Sheet vivo. Plantilla: `reporte-semanal`. |
 | **Mensual** | Lo mismo acumulado + creativos ganadores + decisión (seguir, escalar, replantear) | Reunión de 30 min con el Sheet en pantalla. |
 | **Cuando pasa algo** | Cuenta restringida, campaña apagada por costo, oportunidad | Mensaje el mismo día. |
 
-Automatizar lo del lunes es el primer flujo n8n que se construye para un cliente de Ads (ver *Automatizaciones* (`meta/automatizaciones`)).
+Automatizar lo del lunes es el primer flujo n8n que se construye para un cliente de Ads (ver *Automatizaciones*, `meta/automatizaciones`).
 
 ---
 
