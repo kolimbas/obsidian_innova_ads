@@ -18,7 +18,7 @@ updated: 2026-09-14
 Gestión de campañas en Meta para PyMEs argentinas que necesitan **leads o ventas medibles**, no "presencia". Cada cliente recibe: estrategia, estructura de cuenta, creativos, optimización semanal y un reporte que entiende sin traductor.
 
 > [!info] Dónde se cruza con Innova
-> Un lead que entra por Meta necesita que alguien lo atienda rápido. Ahí entra la automatización de Innova (n8n, WhatsApp API, CRM). Ver [[meta/automatizaciones|Automatizaciones]] para los flujos que conectan pauta con atención.
+> Un lead que entra por Meta necesita que alguien lo atienda rápido. Ahí entra la automatización de Innova (n8n, WhatsApp API, CRM). Ver *Automatizaciones* (`meta/automatizaciones`) para los flujos que conectan pauta con atención.
 
 ---
 

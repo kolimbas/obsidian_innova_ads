@@ -8,7 +8,7 @@ updated: 2026-09-14
 
 # CLAUDE.md — Instrucciones del vault
 
-> Leer antes de tocar cualquier cosa acá.
+> Leer antes de tocar cualquier cosa acá. Punto de entrada del vault: [[ADS_MASTER]].
 
 ---
 
@@ -33,7 +33,7 @@ Vault de Obsidian de **Innova Ads**, la unidad de publicidad digital de Innova S
 
 1. **Ningún secreto en el repo.** Tokens de la Marketing API, claves de cuentas, App Passwords: van en `~/.config/innova/ads-<cliente>.env` con `chmod 600`. En el vault solo va `ACCESOS-PUNTERO.md` diciendo *dónde* está cada cosa. `.gitignore` bloquea `accesos.md` (en cualquier mayúscula, por eso el puntero se llama distinto), `*.env`, `.mcp.json` y `credenciales/`. El vault innova estuvo público con credenciales adentro; acá no se repite.
 2. **Nunca operar con el usuario del cliente.** Siempre acceso como partner desde el Business Manager de Innova. Si el cliente pasa su login, se le explica por qué no.
-3. **Ninguna campaña se lanza sin `brief.md`, `plan.md` y `tasks.md`** con el plan confirmado por Francisco. Ver [[meta/METODOLOGIA|Metodología]].
+3. **Ninguna campaña se lanza sin `brief.md`, `plan.md` y `tasks.md`** con el plan confirmado por Francisco. Ver *Metodología* (`meta/METODOLOGIA`).
 4. **Nunca contactar al cliente desde una automatización** sin que Francisco lo apruebe. Pruebas al mail de Francisco.
 5. **La pauta la paga el cliente en su cuenta.** Innova no carga tarjeta propia en cuentas de clientes.
 6. **Los números del reporte salen de Ads Manager o de la API**, nunca de memoria. Si no se pudo medir, se dice.

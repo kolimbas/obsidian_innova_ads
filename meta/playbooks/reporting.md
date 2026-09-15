@@ -18,11 +18,11 @@ updated: 2026-09-14
 
 | Cuándo | Qué | Formato |
 | --- | --- | --- |
-| **Lunes** | Semana anterior: gasto, resultados, costo por resultado vs. umbral, tendencia, qué hicimos, qué hacemos | Mail de 5-8 líneas + link al Sheet vivo. Plantilla en [[meta/templates/reporte-semanal|reporte semanal]]. |
+| **Lunes** | Semana anterior: gasto, resultados, costo por resultado vs. umbral, tendencia, qué hicimos, qué hacemos | Mail de 5-8 líneas + link al Sheet vivo. Plantilla en plantilla `reporte-semanal`. |
 | **Mensual** | Lo mismo acumulado + creativos ganadores + decisión (seguir, escalar, replantear) | Reunión de 30 min con el Sheet en pantalla. |
 | **Cuando pasa algo** | Cuenta restringida, campaña apagada por costo, oportunidad | Mensaje el mismo día. |
 
-Automatizar lo del lunes es el primer flujo n8n que se construye para un cliente de Ads (ver [[meta/automatizaciones|Automatizaciones]]).
+Automatizar lo del lunes es el primer flujo n8n que se construye para un cliente de Ads (ver *Automatizaciones* (`meta/automatizaciones`)).
 
 ---
 
@@ -44,7 +44,7 @@ Todos los anuncios llevan parámetros de URL con los valores dinámicos de Meta,
 utm_source=meta&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&placement={{placement}}
 ```
 
-Así Google Analytics y el CRM del cliente ven de qué campaña y anuncio vino cada visita, sin cargar nada a mano. Con los nombres estandarizados de [[meta/playbooks/estructura-de-cuenta|Estructura de cuenta]], los reportes se leen solos.
+Así Google Analytics y el CRM del cliente ven de qué campaña y anuncio vino cada visita, sin cargar nada a mano. Con los nombres estandarizados de playbook *Estructura de cuenta*, los reportes se leen solos.
 
 ---
 

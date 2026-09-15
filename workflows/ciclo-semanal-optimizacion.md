@@ -26,7 +26,7 @@ updated: 2026-09-14
 Con el preset de columnas "Innova", últimos 7 días vs. 7 anteriores:
 
 - [ ] Costo por resultado vs. umbral, por campaña y por conjunto.
-- [ ] Diagnóstico CPM → CTR → conversión ([[meta/playbooks/metricas|Métricas]]).
+- [ ] Diagnóstico CPM → CTR → conversión (playbook *Métricas*).
 - [ ] Frecuencia y CTR por anuncio: ¿fatiga?
 - [ ] Leads válidos y contactados a tiempo (del Sheet o del CRM del cliente).
 
@@ -49,7 +49,7 @@ Cada decisión: fecha, qué, por qué, en `resultados.md`.
 ## 5. Reportar (10 min)
 
 - [ ] Fila de la semana en `resultados.md` y en el Sheet.
-- [ ] Mail del lunes con la plantilla [[meta/templates/reporte-semanal|reporte semanal]] (o el flujo n8n si ya existe).
+- [ ] Mail del lunes con la plantilla plantilla `reporte-semanal` (o el flujo n8n si ya existe).
 - [ ] Si hay algo que el cliente tiene que hacer (contestar más rápido, mandar fotos), va en el mail, con el número que lo justifica.
 
 ## 6. Cerrar

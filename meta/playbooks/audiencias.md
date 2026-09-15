@@ -59,6 +59,6 @@ updated: 2026-09-14
 ## Cuándo la audiencia es el problema y cuándo no
 
 - CPM muy alto para el país (comparar con otras campañas): audiencia chica o muy competida. Ampliar.
-- CTR bajo con CPM normal: no es la audiencia, es el creativo. Ver [[meta/playbooks/creativos|Creativos]].
+- CTR bajo con CPM normal: no es la audiencia, es el creativo. Ver playbook *Creativos*.
 - Frecuencia arriba de 3-4 por semana en frío: la audiencia se agotó. Ampliar o rotar creativos.
-- Leads baratos pero malos: la audiencia es correcta pero la oferta o el formulario califican mal. Ver [[meta/playbooks/whatsapp-y-leads|WhatsApp y leads]].
+- Leads baratos pero malos: la audiencia es correcta pero la oferta o el formulario califican mal. Ver playbook *WhatsApp y leads*.

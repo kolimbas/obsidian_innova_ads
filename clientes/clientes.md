@@ -28,7 +28,7 @@ Estados posibles: 🔵 Pre-venta · 🟡 Setup · 🟢 Activo · ⏸️ Pausado 
 
 ## Cómo se cotiza
 
-Hoja de precios borrador: [[clientes/precios|precios]]. Lo que recibe el cliente: plantilla de [[meta/templates/propuesta-comercial|propuesta]] y [[meta/templates/acuerdo-de-gestion|acuerdo de gestión]].
+Hoja de precios borrador: [[clientes/precios|precios]]. Lo que recibe el cliente: plantilla de plantilla `propuesta-comercial` y plantilla `acuerdo-de-gestion`.
 
 ### Resumen (propuesta inicial, a validar)
 
@@ -39,7 +39,7 @@ Hoja de precios borrador: [[clientes/precios|precios]]. Lo que recibe el cliente
 | --- | --- | --- |
 | **Setup** (una vez) | Auditoría de cuenta, píxel + CAPI, verificación de dominio, estructura, brief, primeros 6 creativos, lanzamiento | Equivalente a 1 fee mensual |
 | **Fee mensual** | Optimización semanal, rotación de creativos, reporte mensual, reunión de status | Mínimo fijo en USD; por encima de cierta pauta, un % del gasto |
-| **Pauta** | La paga el cliente directo a Meta desde su cuenta | Mínimo recomendado para que haya datos: ver [[meta/playbooks/presupuesto-y-escalado|presupuesto]] |
+| **Pauta** | La paga el cliente directo a Meta desde su cuenta | Mínimo recomendado para que haya datos: ver playbook *presupuesto* |
 | **Extras** | Producción de video, landing, automatización de leads (Innova) | Se cotizan aparte |
 
 Cobro: 50% del setup al confirmar, 50% contra lanzamiento. Fee mensual por adelantado. Conversión a pesos con el dólar blue de dolarhoy.com del día.
@@ -50,4 +50,4 @@ Cobro: 50% del setup al confirmar, 50% contra lanzamiento. Fee mensual por adela
 
 - Cada cliente nuevo: una fila en la tabla, una ficha en `clientes/<slug>.md` (plantilla en `meta/templates/ficha-cliente.md`) y una carpeta operativa en `meta/clientes/<slug>/`.
 - La ficha lleva frontmatter con `estado`, `fase` y `updated`.
-- El alta completa está en [[workflows/onboarding-cliente-ads|Onboarding de cliente]].
+- El alta completa está en workflow *Onboarding de cliente*.

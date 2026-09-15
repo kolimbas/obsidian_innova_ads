@@ -39,7 +39,7 @@ Los flujos n8n **se construyen y documentan en el vault innova** (`n8n/clients/<
 
 - **Token de sistema** de la Marketing API desde el Business Manager de Innova, con permisos `ads_read` (reportes) y `leads_retrieval` (leads). Guardado en `~/.config/innova/ads-<cliente>.env`, nunca en el vault.
 - Para leads: la página del cliente tiene que dar acceso a la app de Innova y aceptar el webhook. Se hace una vez por cliente en el onboarding.
-- Para el diagnóstico asistido: token de la API de Claude, guardado igual que el resto — nunca en el vault. Ver [[meta/playbooks/herramientas-ia|Herramientas de IA]] para el uso manual (sin n8n) vía el conector oficial de Meta.
+- Para el diagnóstico asistido: token de la API de Claude, guardado igual que el resto — nunca en el vault. Ver playbook *Herramientas de IA* para el uso manual (sin n8n) vía el conector oficial de Meta.
 - Instancia n8n: la de Innova que corresponda (ver el vault innova).
 
 ---

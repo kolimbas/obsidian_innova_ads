@@ -18,7 +18,7 @@ updated: 2026-09-14
 
 - [ ] Ficha en `clientes/<slug>.md` (plantilla `meta/templates/ficha-cliente.md`), con cobro, alcance, KPI y umbral.
 - [ ] Fila en `clientes/clientes.md` y en `ADS_MASTER.md`.
-- [ ] Propuesta enviada ([[meta/templates/propuesta-comercial|plantilla]]) y acuerdo aceptado ([[meta/templates/acuerdo-de-gestion|plantilla]]).
+- [ ] Propuesta enviada (plantilla `propuesta-comercial`) y acuerdo aceptado (plantilla `acuerdo-de-gestion`).
 - [ ] Cobro del 50% del setup.
 - [ ] Mail de bienvenida con la lista de lo que necesitamos (punto 2 y 4) y por qué.
 
@@ -27,15 +27,15 @@ updated: 2026-09-14
 - [ ] Carpeta `meta/clientes/<slug>/` con `README.md`, `ACCESOS-PUNTERO.md`, `campanas/`, `creativos/`, `reportes/`.
 - [ ] Fila en `meta/clientes/_index.md`.
 - [ ] El cliente tiene Portfolio empresarial a su nombre. Si no, se le crea uno **con su mail** en videollamada.
-- [ ] Nos agrega como **socio** con acceso a: cuenta publicitaria, página, Instagram, píxel, WhatsApp. Guía en [[meta/playbooks/estructura-de-cuenta|Estructura de cuenta]].
+- [ ] Nos agrega como **socio** con acceso a: cuenta publicitaria, página, Instagram, píxel, WhatsApp. Guía en playbook *Estructura de cuenta*.
 - [ ] Segundo administrador del Portfolio del lado del cliente.
 - [ ] Método de pago cargado por el cliente + límite de gasto de la cuenta.
 - [ ] Token de usuario del sistema para la Marketing API (si va a haber reportes automáticos), guardado en `~/.config/innova/ads-<slug>.env`.
 
 ## 3. Técnico (día 2-5)
 
-- [ ] Auditoría de la cuenta con el [[meta/templates/auditoria-cuenta|checklist]]: campañas viejas, audiencias, píxel, Calidad de la cuenta, rechazos. Se anota en el README del cliente.
-- [ ] Píxel + Conversions API instalados y verificados ([[meta/playbooks/pixel-y-capi|checklist]]).
+- [ ] Auditoría de la cuenta con el plantilla `auditoria-cuenta`: campañas viejas, audiencias, píxel, Calidad de la cuenta, rechazos. Se anota en el README del cliente.
+- [ ] Píxel + Conversions API instalados y verificados (playbook *checklist*).
 - [ ] Dominio verificado.
 - [ ] Audiencias personalizadas base: visitantes 30/90/180, interacción IG/FB 90, lista de clientes si hay.
 - [ ] Si hay WhatsApp: cuenta de WhatsApp Business conectada a la página. Si hay bot o flujo n8n: bundle en el vault innova.
@@ -46,14 +46,14 @@ updated: 2026-09-14
 
 - [ ] Reunión de brief (45 min) → `campanas/<primera>/brief.md`.
 - [ ] Definición de lead válido acordada por escrito.
-- [ ] Guía de material enviada ([[meta/templates/brief-creativos|brief de creativos]]) y carpeta en Drive creada. Material recibido: fotos, videos, testimonios, logo.
+- [ ] Guía de material enviada (plantilla `brief-creativos`) y carpeta en Drive creada. Material recibido: fotos, videos, testimonios, logo.
 - [ ] Preguntas abiertas cerradas con el cliente.
 
 ## 5. Listo para lanzar
 
 - [ ] Plan y tasks confirmados por Francisco.
 - [ ] Creativos aprobados por el cliente.
-- [ ] Seguir [[workflows/lanzamiento-de-campana|Lanzamiento de campaña]].
+- [ ] Seguir workflow *Lanzamiento de campaña*.
 
 ---
 

@@ -35,5 +35,5 @@ updated: 2026-09-14
 
 - [ ] Acta corta en `reuniones/` del cliente.
 - [ ] Decisiones a `resultados.md` y `tasks.md`.
-- [ ] Lecciones a [[meta/lecciones|lecciones]] y, si aplica, a un playbook.
+- [ ] Lecciones a *Lecciones* (`meta/lecciones`) y, si aplica, a un playbook.
 - [ ] `estado` y `fase` en la ficha del cliente.

@@ -45,7 +45,7 @@ meta/clientes/<slug>/
 ## Principios que ordenan todo
 
 1. **El cliente compra resultados, no impresiones.** Cada campaña tiene un KPI principal (CPL, CPA o ROAS) y un umbral de corte definido antes de gastar el primer peso.
-2. **Los creativos son la palanca más grande.** Con el sistema actual de Meta la segmentación fina pesa cada vez menos y la variedad de creativos cada vez más. Ver [[meta/playbooks/creativos|Creativos]].
+2. **Los creativos son la palanca más grande.** Con el sistema actual de Meta la segmentación fina pesa cada vez menos y la variedad de creativos cada vez más. Ver playbook *Creativos*.
 3. **Medir antes de pautar.** Píxel + Conversions API funcionando y verificados antes de lanzar. Sin medición no hay optimización, solo gasto.
-4. **No tocar durante la fase de aprendizaje.** Cada cambio grande reinicia el aprendizaje. Ver [[meta/playbooks/presupuesto-y-escalado|Presupuesto y escalado]].
+4. **No tocar durante la fase de aprendizaje.** Cada cambio grande reinicia el aprendizaje. Ver playbook *Presupuesto y escalado*.
 5. **Documentar lo que no funcionó.** El retro de una campaña mala vale más que el de una buena.

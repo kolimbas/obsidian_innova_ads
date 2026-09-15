@@ -43,7 +43,7 @@ Regla práctica: **3 ángulos × 2 formatos (imagen + video) = 6 anuncios** para
 
 ## Anatomía de un video que funciona
 
-- **Hook en los primeros 2 segundos**: una pregunta, un dato, una escena rara. Se mide con la tasa de retención a 3 segundos (ver [[meta/playbooks/metricas|Métricas]]).
+- **Hook en los primeros 2 segundos**: una pregunta, un dato, una escena rara. Se mide con la tasa de retención a 3 segundos (ver playbook *Métricas*).
 - Cuerpo de 10-20 segundos: un solo mensaje.
 - Cierre con llamado a la acción hablado y escrito.
 - Grabado con celular, luz natural y una persona real suele rendir más que producción. El feed es de gente, no de marcas.
@@ -77,6 +77,6 @@ Voz: rioplatense, tuteo o voseo según la marca, sin frases de agencia. "Turnos 
 ## Qué NO hacer
 
 - Un solo anuncio "el lindo" aprobado por el dueño.
-- Textos con la política de Meta en contra: atributos personales ("¿sos diabético?"), antes-después en salud, promesas de resultado. Ver [[meta/playbooks/politicas-y-rechazos|Políticas]].
+- Textos con la política de Meta en contra: atributos personales ("¿sos diabético?"), antes-después en salud, promesas de resultado. Ver playbook *Políticas*.
 - Imágenes con mucho texto encima: ya no hay regla del 20%, pero sigue rindiendo peor en el celular.
 - Pegar el logo grande en el centro. El feed no es una vidriera.

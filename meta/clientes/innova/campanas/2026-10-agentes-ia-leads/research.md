@@ -7,6 +7,8 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
+
 ---
 
 # Research — Innova · 2026-10 · agentes de IA · leads
@@ -25,12 +27,12 @@ Ninguna todavía. Lo más cercano es lo aprendido construyendo bots para Alpha C
 
 ## 3. Playbooks que aplican
 
-- [[meta/playbooks/objetivos-de-campana|Objetivos]] → Clientes potenciales con destino WhatsApp; optimizar a conversaciones iniciadas (no hay píxel con datos).
-- [[meta/playbooks/audiencias|Audiencias]] → Cuenta nueva sin señal: amplia AR 28-60 + un conjunto de intereses grandes (pequeñas empresas, emprendimiento, administración de negocios). Excluir empleados y clientes actuales (lista chica).
-- [[meta/playbooks/creativos|Creativos]] → 3 ángulos × 2 formatos. Video a cámara de Francisco es lo más barato y creíble.
-- [[meta/playbooks/whatsapp-y-leads|WhatsApp y leads]] → El bot de primera respuesta ya existe: es la ventaja. Definir "válido" antes de lanzar (hecho en el brief).
-- [[meta/playbooks/presupuesto-y-escalado|Presupuesto]] → 7 × CPL esperado (USD 3) ≈ USD 21/día. Vamos con 20.
-- [[meta/playbooks/politicas-y-rechazos|Políticas]] → Sin categoría especial. Cuidado con "atributos personales" en el texto ("¿perdés clientes?" está bien; "¿sos dueño de una clínica?" no).
+- playbook *Objetivos* → Clientes potenciales con destino WhatsApp; optimizar a conversaciones iniciadas (no hay píxel con datos).
+- playbook *Audiencias* → Cuenta nueva sin señal: amplia AR 28-60 + un conjunto de intereses grandes (pequeñas empresas, emprendimiento, administración de negocios). Excluir empleados y clientes actuales (lista chica).
+- playbook *Creativos* → 3 ángulos × 2 formatos. Video a cámara de Francisco es lo más barato y creíble.
+- playbook *WhatsApp y leads* → El bot de primera respuesta ya existe: es la ventaja. Definir "válido" antes de lanzar (hecho en el brief).
+- playbook *Presupuesto* → 7 × CPL esperado (USD 3) ≈ USD 21/día. Vamos con 20.
+- playbook *Políticas* → Sin categoría especial. Cuidado con "atributos personales" en el texto ("¿perdés clientes?" está bien; "¿sos dueño de una clínica?" no).
 
 ## 4. Competencia (Biblioteca de anuncios)
 
@@ -42,7 +44,7 @@ Tarea concreta: 30 minutos en la Biblioteca de anuncios, filtro Argentina, y ano
 
 ## 5. Plataforma
 
-Ver [[research/2026-09-14|research del 14-09]]: creativo pesa más que audiencia; verticales y video corto; WhatsApp como destino de primera; conector de Claude para leer la cuenta.
+Ver research del 14-09 (`research/2026-09-14`): creativo pesa más que audiencia; verticales y video corto; WhatsApp como destino de primera; conector de Claude para leer la cuenta.
 
 ---
 

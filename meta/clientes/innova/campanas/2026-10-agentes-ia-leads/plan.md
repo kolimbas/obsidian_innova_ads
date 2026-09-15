@@ -7,6 +7,8 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
+
 ---
 
 # Plan — Innova · 2026-10 · agentes de IA · leads
@@ -64,7 +66,7 @@ Campaña  [INNOVA] 2026-10 · Leads · Agente IA WhatsApp   (presupuesto de camp
 | Oferta | Video 9:16 + 4:5 | "20 minutos por videollamada y lo ves andando en tu rubro. Sin costo." | ⬜ grabar |
 | Oferta | Imagen 4:5 + 9:16 | La misma oferta en texto | ⬜ diseñar |
 
-Textos: 3 textos principales × 3 títulos por anuncio (ver [[meta/clientes/innova/creativos/2026-10-problema-video-9x16|creativo de ejemplo]]).
+Textos: 3 textos principales × 3 títulos por anuncio (ver nota `creativos/2026-10-problema-video-9x16`).
 
 ## Medición
 
@@ -95,7 +97,7 @@ Textos: 3 textos principales × 3 títulos por anuncio (ver [[meta/clientes/inno
 ## Riesgos
 
 - Cuenta publicitaria nueva: arrancar con USD 20/día es prudente; no subir la primera semana.
-- Texto con "atributos personales": revisar cada texto contra [[meta/playbooks/politicas-y-rechazos|políticas]].
+- Texto con "atributos personales": revisar cada texto contra playbook *políticas*.
 - Francisco no puede atender demos: el bot agenda igual, pero si se acumulan, bajar presupuesto antes que perder leads.
 
 ## Embudo

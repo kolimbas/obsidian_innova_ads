@@ -7,6 +7,8 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
+
 ---
 
 # Retro — Innova · 2026-10 · agentes de IA · leads
@@ -31,7 +33,7 @@ updated: 2026-09-14
 
 ## Reutilizable
 
-- Promover a playbook: el primer CPM y CPL reales de Argentina para B2B de servicios → [[meta/playbooks/metricas|Métricas]], sección benchmarks.
+- Promover a playbook: el primer CPM y CPL reales de Argentina para B2B de servicios → playbook *Métricas*, sección benchmarks.
 - Anotar en el README del cliente: …
 - Creativo ganador: …
 
@@ -49,4 +51,4 @@ Estimado: 12 h (setup 4, creativos 5, build 1, optimización 2) · Real: … h
 
 ---
 
-Línea para [[meta/lecciones|lecciones]]: `| 2026-10-19 | innova | … |`
+Línea para *Lecciones* (`meta/lecciones`): `| 2026-10-19 | innova | … |`

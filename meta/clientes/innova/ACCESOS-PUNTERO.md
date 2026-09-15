@@ -5,6 +5,8 @@ tags:
   - nivel-2
 client: innova
 updated: 2026-09-14
+← Volver a [[meta/clientes/innova/README|Innova · operación]]
+
 ---
 
 # 🔑 Accesos de Innova (interno) — dónde están

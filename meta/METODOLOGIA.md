@@ -28,7 +28,7 @@ updated: 2026-09-14
 
 Plantillas: [[meta/templates/brief|brief]] · [[meta/templates/research|research]] · [[meta/templates/plan|plan]] · [[meta/templates/tasks|tasks]] · [[meta/templates/resultados|resultados]] · [[meta/templates/retro|retro]] · [[meta/templates/creativo|creativo]] · [[meta/templates/reporte-semanal|reporte semanal]] · [[meta/templates/cliente-README|README de cliente]] · [[meta/templates/ACCESOS-PUNTERO|ACCESOS-PUNTERO]] · [[meta/templates/ficha-cliente|ficha comercial]] · [[meta/templates/propuesta-comercial|propuesta comercial]] · [[meta/templates/acuerdo-de-gestion|acuerdo de gestión]] · [[meta/templates/auditoria-cuenta|auditoría de cuenta]] · [[meta/templates/brief-creativos|brief de creativos]].
 
-Un bundle completo de ejemplo, con las plantillas llenas: [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|Innova · 2026-10 · agentes IA · leads]].
+Un bundle completo de ejemplo, con las plantillas llenas: `meta/clientes/innova/campanas/2026-10-agentes-ia-leads/`.
 
 ---
 
@@ -38,7 +38,7 @@ Un bundle completo de ejemplo, con las plantillas llenas: [[meta/clientes/innova
 
 Llega un pedido (reunión, audio, WhatsApp). Identificar:
 
-- **Cliente** → ¿existe `meta/clientes/<slug>/`? Si no, correr [[workflows/onboarding-cliente-ads|el onboarding]] primero.
+- **Cliente** → ¿existe `meta/clientes/<slug>/`? Si no, correr workflow *el onboarding* primero.
 - **Slug de campaña** → `YYYY-MM-<que-vende>-<objetivo>`: `2026-10-turnos-leads`, `2026-11-hotsale-ventas`.
 - Crear `meta/clientes/<slug>/campanas/<campaña>/` y copiar las plantillas.
 
@@ -62,9 +62,9 @@ El paso de reutilización. Siempre, en este orden:
 
 1. **Campañas previas del mismo cliente** — leer todos los `retro.md` y `resultados.md` de su carpeta.
 2. **Campañas parecidas de otros clientes** — mismo rubro, mismo objetivo, mismo embudo.
-3. **Playbooks** — qué aplica de [[meta/playbooks/_index|playbooks]] y qué contradice.
+3. **Playbooks** — qué aplica de playbook *playbooks* y qué contradice.
 4. **Competencia** — Biblioteca de anuncios de Meta: qué corren los 3-5 competidores, hace cuánto (un anuncio que lleva meses activo funciona).
-5. **Plataforma** — cambios recientes en [[research/research|research]] que afecten el plan.
+5. **Plataforma** — cambios recientes en *research* (`research/research`) que afecten el plan.
 
 Registrar como: **qué reutilizamos** y **por qué cada decisión**. Si una campaña previa cubre más del 60% del caso, es la **base** y el plan arranca de una copia.
 
@@ -98,7 +98,7 @@ Checklist ordenado, agrupado por fase:
 
 ### 5. Build y lanzamiento
 
-Seguir [[workflows/lanzamiento-de-campana|el checklist de lanzamiento]]. Tildar tareas a medida que se hacen. Si algo se desvía del plan, **se corrige el plan** (que no mienta).
+Seguir workflow *el checklist de lanzamiento*. Tildar tareas a medida que se hacen. Si algo se desvía del plan, **se corrige el plan** (que no mienta).
 
 ### 6. Resultados (`resultados.md`)
 
@@ -114,7 +114,7 @@ Obligatorio antes de cerrar, y al mes si la campaña sigue. Secciones:
 - **Tiempo invertido** vs. estimado
 - **Pendientes**
 
-Sumar una línea a [[meta/lecciones|lecciones]].
+Sumar una línea a *Lecciones* (`meta/lecciones`).
 
 ---
 

@@ -48,4 +48,4 @@ Estimado: … h · Real: … h · Dónde se fue la diferencia: …
 
 ---
 
-Línea para [[meta/lecciones|lecciones]]: `| fecha | cliente | … |`
+Línea para *Lecciones* (`meta/lecciones`): `| fecha | cliente | … |`

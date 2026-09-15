@@ -7,6 +7,8 @@ tags:
 client: innova
 campaign: 2026-10-agentes-ia-leads
 updated: 2026-09-14
+← Volver al [[meta/clientes/innova/campanas/2026-10-agentes-ia-leads/brief|brief de la campaña]]
+
 ---
 
 # Resultados — Innova · 2026-10 · agentes de IA · leads

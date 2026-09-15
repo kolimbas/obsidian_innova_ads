@@ -12,7 +12,7 @@ updated: {{date:YYYY-MM-DD}}
 
 > Contexto operativo. Lo comercial está en `clientes/<slug>.md`.
 
-← Volver a [[meta/clientes/_index|Clientes]]
+← Volver a *Clientes* (`meta/clientes/_index`)
 
 ---
 

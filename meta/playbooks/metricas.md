@@ -52,7 +52,7 @@ No usamos benchmarks de internet como umbral. Argentina tiene CPM bajos en dóla
 - Retención a 3 s por debajo de 25%: el hook no funciona.
 - Costo por resultado 2× el umbral después de 4-5 días con datos: apagar ese anuncio o conjunto.
 
-Los números reales por rubro se van anotando en [[meta/lecciones|lecciones]] a partir de nuestros propios clientes.
+Los números reales por rubro se van anotando en *Lecciones* (`meta/lecciones`) a partir de nuestros propios clientes.
 
 ---
 

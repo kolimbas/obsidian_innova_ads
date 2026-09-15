@@ -25,7 +25,7 @@ Innova cobra **por lo que hace** (estrategia, setup, creativos, optimización, r
 
 | Incluye | USD |
 | --- | --- |
-| Auditoría de la cuenta ([[meta/templates/auditoria-cuenta\|checklist]]), Portfolio y accesos como socio | |
+| Auditoría de la cuenta (plantilla `auditoria-cuenta`), Portfolio y accesos como socio | |
 | Píxel + Conversions API verificados, dominio verificado, audiencias base | |
 | Brief, estrategia y plan de la primera campaña | |
 | 6 creativos iniciales (3 ángulos × 2 formatos) con el material del cliente | |
@@ -46,7 +46,7 @@ Cobro: 50% al confirmar, 50% contra lanzamiento. Si el cliente ya tiene píxel y
 
 Se cobra por adelantado, el 1 de cada mes. Sin permanencia: se avisa con 15 días.
 
-**Pauta mínima para aceptar una cuenta: USD 300/mes.** Con menos no hay datos para optimizar y el fee de Innova termina siendo más grande que la pauta; se le dice al cliente que no conviene. Recomendada: USD 600/mes o más (ver [[meta/playbooks/presupuesto-y-escalado|presupuesto]]).
+**Pauta mínima para aceptar una cuenta: USD 300/mes.** Con menos no hay datos para optimizar y el fee de Innova termina siendo más grande que la pauta; se le dice al cliente que no conviene. Recomendada: USD 600/mes o más (ver playbook *presupuesto*).
 
 ---
 
@@ -57,7 +57,7 @@ Se cobra por adelantado, el 1 de cada mes. Sin permanencia: se avisa con 15 día
 | Tanda de 3 videos cortos editados (con material del cliente) | 150 | Guion, edición, subtítulos, 9:16 y 4:5 |
 | Grabación presencial de testimonios (AMBA) | 250 | Medio día, 3-5 piezas |
 | Landing de campaña | 300 | Lovable + píxel, la hace Innova web |
-| Automatización lead → WhatsApp del vendedor + Sheet | 250 + 50/mes | Flujo n8n, ver [[meta/automatizaciones\|automatizaciones]] |
+| Automatización lead → WhatsApp del vendedor + Sheet | 250 + 50/mes | Flujo n8n, ver *Automatizaciones* (`meta/automatizaciones`) |
 | Respuesta automática en WhatsApp (bot de calificación) | cotiza Innova | Es el producto de Innova automatización |
 | Reporte en Looker Studio | 150 | Solo si el cliente lo pide |
 

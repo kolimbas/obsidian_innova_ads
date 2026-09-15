@@ -26,7 +26,7 @@ Ejemplos: si esperamos un lead a USD 3, hacen falta unos USD 20/día por conjunt
 
 **Regla comercial:** si el cliente no puede poner ese presupuesto para el evento que quiere, se optimiza a un evento más arriba en el embudo (contacto, ver contenido) o se le dice que con esa pauta no vamos a poder prometer resultados. Mejor decirlo antes que después.
 
-Mínimo que aceptamos gestionar: el que haga que el fee de Innova no sea más grande que la pauta. Se define en [[clientes/clientes|Clientes]].
+Mínimo que aceptamos gestionar: el que haga que el fee de Innova no sea más grande que la pauta. Se define en *Clientes* (`clientes/clientes`).
 
 ---
 
@@ -77,5 +77,5 @@ Nunca duplicar el presupuesto de golpe "porque anda bien". Es la forma clásica 
 | Día 1 | Verificar que gasta, que los eventos llegan, que no hay rechazos. Nada más. |
 | Día 4-5 | Primera lectura. Apagar solo lo claramente roto. |
 | Día 7 | Fin de aprendizaje. Decisión por conjunto y por anuncio. Primer reporte al cliente. |
-| Cada semana | [[workflows/ciclo-semanal-optimizacion|Ciclo semanal]]. |
+| Cada semana | workflow *Ciclo semanal*. |
 | Día 30 | Retro, reporte mensual, decisión de escalar o replantear. |

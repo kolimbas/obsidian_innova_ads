@@ -2,6 +2,7 @@
 tags:
   - meta
   - clients
+  - hub
   - nivel-2
 updated: 2026-09-14
 ---
@@ -32,4 +33,4 @@ Estados: `onboarding` · `setup` · `activo` · `pausado` · `cerrado`.
 2. Copiar `meta/templates/cliente-README.md` como `README.md` y completarlo.
 3. Copiar `meta/templates/ACCESOS-PUNTERO.md` como `ACCESOS-PUNTERO.md`: solo dónde vive cada acceso.
 4. Agregar la fila arriba.
-5. Seguir [[workflows/onboarding-cliente-ads|el onboarding]] para lo técnico (partner, píxel, dominio, pago).
+5. Seguir workflow *el onboarding* para lo técnico (partner, píxel, dominio, pago).

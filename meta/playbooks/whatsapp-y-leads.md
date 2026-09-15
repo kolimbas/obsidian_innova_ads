@@ -32,7 +32,7 @@ Elección por defecto para servicios locales: **click-to-WhatsApp** si el client
 - **2-3 preguntas de calificación** personalizadas y una con opciones: "¿Para cuándo lo necesitás?", "¿En qué zona estás?", "¿Presupuesto aproximado?". Cada pregunta filtra curiosos.
 - Pantalla de agradecimiento con un **botón a WhatsApp** o un "te llamamos en menos de X".
 - Política de privacidad del cliente linkeada (obligatoria).
-- Los leads quedan en la página de Facebook 90 días. **Nunca depender de bajarlos a mano**: webhook a n8n → WhatsApp del vendedor + Sheet/CRM. Ver [[meta/automatizaciones|Automatizaciones]].
+- Los leads quedan en la página de Facebook 90 días. **Nunca depender de bajarlos a mano**: webhook a n8n → WhatsApp del vendedor + Sheet/CRM. Ver *Automatizaciones* (`meta/automatizaciones`).
 
 ---
 

@@ -8,7 +8,7 @@ updated: 2026-09-14
 
 # Herramientas de IA (Claude)
 
-> Nace antes de un retro real, por decisión explícita — normalmente un playbook sale de una lección con más de un cliente encima, y acá todavía no hay ninguno. Se corrige o se descarta apenas haya una cuenta real probándolo. Fuentes y contexto en [[research/2026-09-14|research]].
+> Nace antes de un retro real, por decisión explícita — normalmente un playbook sale de una lección con más de un cliente encima, y acá todavía no hay ninguno. Se corrige o se descarta apenas haya una cuenta real probándolo. Fuentes y contexto en research del 14-09 (`research/2026-09-14`).
 
 ← Volver a [[meta/playbooks/_index|Playbooks]]
 
@@ -26,20 +26,20 @@ Nunca un solo conector compartido entre cuentas de distintos clientes. Un Projec
 
 ## Para qué sirve hoy
 
-- **Ciclo semanal, paso "Leer"** ([[workflows/ciclo-semanal-optimizacion|Ciclo semanal]]): pedirle el diagnóstico CPM → CTR → conversión de la semana antes de la lectura manual, y contrastarlo.
+- **Ciclo semanal, paso "Leer"** (workflow *Ciclo semanal*): pedirle el diagnóstico CPM → CTR → conversión de la semana antes de la lectura manual, y contrastarlo.
 - **Reporte del lunes**: armar el primer borrador del mail con los números de la API, para editar y no redactar de cero.
 - **Auditoría de onboarding**: primera lectura de una cuenta nueva (campañas viejas, píxel, Calidad de la cuenta) en minutos en vez de horas.
 
 ## Para qué NO sirve (no confundir con criterio)
 
-- **No genera creativos.** No ve imágenes ni video, solo texto. La revisión de piezas sigue siendo 100% humana — ver [[meta/playbooks/creativos|Creativos]].
+- **No genera creativos.** No ve imágenes ni video, solo texto. La revisión de piezas sigue siendo 100% humana — ver playbook *Creativos*.
 - **Puede alucinar un número** si el prompt no dice ventana de tiempo, métrica exacta o filtro. Regla: pedirle siempre que muestre qué filtro usó, y cruzar contra Ads Manager antes de mandarle algo al cliente.
 - **No diagnostica causa real** (no ve competencia, estacionalidad ni contexto de negocio). Una respuesta tipo "¿por qué bajó el ROAS?" es una hipótesis para revisar, no una conclusión para actuar.
-- **No reemplaza el plan confirmado.** Que lo que crea quede pausado por default no es una licencia para saltear `brief.md` → `plan.md` → `tasks.md`; sigue siendo la misma regla dura de [[meta/METODOLOGIA|Metodología]].
+- **No reemplaza el plan confirmado.** Que lo que crea quede pausado por default no es una licencia para saltear `brief.md` → `plan.md` → `tasks.md`; sigue siendo la misma regla dura de *Metodología* (`meta/METODOLOGIA`).
 
 ## Camino alternativo: n8n + Marketing API + Claude
 
-Para lo que el conector no cubre (triggers automáticos, integración con el Sheet o CRM del cliente): un flujo n8n propio que llama a la API de Claude, con aprobación humana antes de tocar presupuesto o audiencias. Ver el flujo candidato "Diagnóstico asistido con Claude" en [[meta/automatizaciones|Automatizaciones]].
+Para lo que el conector no cubre (triggers automáticos, integración con el Sheet o CRM del cliente): un flujo n8n propio que llama a la API de Claude, con aprobación humana antes de tocar presupuesto o audiencias. Ver el flujo candidato "Diagnóstico asistido con Claude" en *Automatizaciones* (`meta/automatizaciones`).
 
 ## Riesgos si esto se ofrece a un cliente
 

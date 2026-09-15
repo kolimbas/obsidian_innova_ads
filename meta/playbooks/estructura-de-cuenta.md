@@ -48,7 +48,7 @@ Si el cliente no sabe hacerlo, se hace por videollamada compartiendo pantalla **
 - [ ] Autenticación en dos pasos en el usuario del cliente que es administrador.
 - [ ] Al menos **dos administradores** del Portfolio (si uno pierde acceso, no se pierde la cuenta).
 - [ ] Página con información completa, foto, y sin advertencias en Calidad de la cuenta.
-- [ ] Píxel instalado y recibiendo eventos (ver [[meta/playbooks/pixel-y-capi|Píxel y CAPI]]).
+- [ ] Píxel instalado y recibiendo eventos (ver playbook *Píxel y CAPI*).
 
 ---
 
