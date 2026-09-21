@@ -3,7 +3,7 @@ tags:
   - meta
   - playbook
   - nivel-3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Objetivos de campaña
@@ -34,7 +34,7 @@ Preguntarse **cuál es la acción que más cerca está de la plata** y que el p�
 - Se puede medir compras con volumen → **Ventas**, evento Compra.
 - Se puede medir leads pero no compras → **Clientes potenciales**, evento Lead o formulario.
 - Hay leads pero pocos (menos de 50/semana) → subir un escalón en el embudo: optimizar a *Contacto* o *Ver contenido*, y a medida que crece el volumen bajar a Lead.
-- El negocio cierra por WhatsApp → **Interacción** con destino WhatsApp, o **Clientes potenciales** con conversión "conversación iniciada".
+- El negocio cierra por WhatsApp → **Interacción** con destino WhatsApp, o **Clientes potenciales** con conversión "conversación iniciada". **Nunca Tráfico para WhatsApp**: optimiza clics y trae gente que no escribe.
 
 Nunca elegir Tráfico "para empezar". Empieza igual de mal y termina peor.
 

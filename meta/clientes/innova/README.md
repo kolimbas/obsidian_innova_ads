@@ -5,8 +5,8 @@ tags:
   - interno
   - nivel-2
 client: innova
-status: setup
-updated: 2026-09-14
+status: pausado
+updated: 2026-09-21
 ---
 
 # Innova (interno) — operación Meta Ads

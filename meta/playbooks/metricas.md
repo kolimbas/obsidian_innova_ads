@@ -3,7 +3,7 @@ tags:
   - meta
   - playbook
   - nivel-3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Métricas
@@ -53,6 +53,8 @@ No usamos benchmarks de internet como umbral. Argentina tiene CPM bajos en dóla
 - Costo por resultado 2× el umbral después de 4-5 días con datos: apagar ese anuncio o conjunto.
 
 Los números reales por rubro se van anotando en *Lecciones* (`meta/lecciones`) a partir de nuestros propios clientes.
+
+**Referencias de Argentina (agosto 2026, cuentas reales, Web360):** CPM promedio **ARS 2.871**, CPC promedio **ARS 129**, presupuesto diario mínimo que acepta una cuenta en pesos **ARS 1.504**. Con inflación estos números caducan en meses; sirven para el orden de magnitud. Global 2026: CPM ~USD 14, CTR 1,5-2,2%, CPL en leads ~USD 28 (mercados caros; Argentina es 5-7 veces más barata en CPM).
 
 ---
 

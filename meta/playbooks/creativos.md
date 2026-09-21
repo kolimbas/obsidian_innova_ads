@@ -3,7 +3,7 @@ tags:
   - meta
   - playbook
   - nivel-3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Creativos
@@ -37,7 +37,10 @@ Un ángulo es *la razón por la que alguien compraría*. Tres ángulos distintos
 4. **Objeción** — "No es caro: sale menos que…" / "No hace falta que sepas de…".
 5. **Cómo funciona** — proceso en 3 pasos, demo, detrás de escena.
 
-Regla práctica: **3 ángulos × 2 formatos (imagen + video) = 6 anuncios** para arrancar. Con menos, el sistema no tiene con qué elegir.
+Regla práctica: **mínimo 6 conceptos distintos por campaña para arrancar, ideal 8-10**, mezclando ángulo y formato. Con menos, el sistema no tiene con qué elegir.
+
+> [!warning] Andromeda cuenta conceptos, no versiones (2026)
+> El sistema actual de Meta agrupa las variaciones cosméticas (otro título, otro recorte, otro color) como **un solo anuncio**. Diez versiones del mismo concepto valen por uno. Lo que suma es cambiar el gancho, el formato o la propuesta de valor. Detalle y fuentes en research del 21-09 (`research/2026-09-21-capacitacion`).
 
 ---
 
@@ -68,7 +71,7 @@ Voz: rioplatense, tuteo o voseo según la marca, sin frases de agencia. "Turnos 
 
 ## Fatiga y rotación
 
-- Un creativo se cansa cuando la **frecuencia** sube y el **CTR** baja al mismo tiempo, con el CPM subiendo. En audiencias chicas pasa en 1-2 semanas; en amplias, en 3-6.
+- Un creativo se cansa cuando la **frecuencia** sube y el **CTR** baja al mismo tiempo, con el CPM subiendo. Con el sistema actual, los estáticos y videos se agotan en **2-3 semanas** (antes eran 6). Y **la primera semana decide**: un anuncio que no rindió en la semana 1 rara vez mejora después.
 - No apagar al ganador por fatiga: **sumar variantes** (nuevo hook, nuevo primer plano, otro testimonio) y dejar que compitan.
 - Cada semana entra al menos **1 creativo nuevo** por campaña activa. Es parte del fee mensual y se documenta en `creativos/`.
 

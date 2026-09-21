@@ -4,7 +4,7 @@ tags:
   - ads
   - master
   - nivel-0
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # 📣 INNOVA ADS
@@ -74,7 +74,11 @@ Gestión de campañas en Meta para PyMEs argentinas que necesitan **leads o vent
 
 | Cliente | Objetivo | Estado | Fase |
 | --- | --- | --- | --- |
-| Innova (interno) | ⚙️ Leads por WhatsApp para agentes de IA | 🟡 Planificada | 3 |
+| Alpha Cycles | Leads · motos · Miami | 🔵 Pre-venta · prioridad 1 | 0 |
+| Hernando Ventas | Leads · consultoría eCommerce | 🔵 Pre-venta · prioridad 2 | 0 |
+| Don Blanco | Mensajes · encargos · Día de la Madre | 🔵 Pre-venta · urgente | 0 |
+| Altius Nutrition | Ventas · suplementos | 🔵 Pre-venta · bloqueado | 0 |
+| Innova (interno) | Caso propio | ⏸️ En pausa | 3 |
 
 ---
 
@@ -100,6 +104,6 @@ Gestión de campañas en Meta para PyMEs argentinas que necesitan **leads o vent
 
 - [ ] Validar la hoja de precios borrador (`clientes/precios.md`)
 - [ ] Crear el Business Manager de Innova Ads (o usar el de Innova) y verificarlo
-- [x] Armar 1 caso propio: campaña de Innova planificada en `meta/clientes/innova/` (2026-09-14) → falta lanzarla
+- [ ] Presentar la pauta a los 4 clientes actuales (fichas en `clientes/`, orden en el hub): Don Blanco esta semana
 - [ ] Definir la plantilla de reporte que ve el cliente (Sheet o Looker)
 - [ ] Que el contador/abogado revise `meta/templates/acuerdo-de-gestion.md` antes del primer cliente

@@ -4,14 +4,14 @@ tags:
   - ads
   - interno
   - nivel-2
-estado: planificada
+estado: en-pausa
 fase: 3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # INNOVA (interno)
 
-> Innova pautando a Innova. Es el caso propio que sirve para tres cosas: conseguir leads para la unidad de agentes de IA, aprender con plata propia antes de tocar la de un cliente, y tener un bundle completo de ejemplo en el vault.
+> **EN PAUSA desde el 21-09-2026: el foco es la pauta de clientes.** Innova pautando a Innova. Es el caso propio que sirve para tres cosas: conseguir leads para la unidad de agentes de IA, aprender con plata propia antes de tocar la de un cliente, y tener un bundle completo de ejemplo en el vault.
 
 ---
 

@@ -4,7 +4,7 @@ tags:
   - clients
   - hub
   - nivel-2
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Clientes — operación de Meta Ads
@@ -19,7 +19,11 @@ updated: 2026-09-14
 
 | Cliente | Estado | Campañas activas | Pauta/mes | Notas |
 | --- | --- | --- | --- | --- |
-| [[meta/clientes/innova/README\|Innova (interno)]] | setup | 0 (1 planificada) | USD 300 (test) | Caso propio: leads por WhatsApp para agentes de IA · campaña `2026-10-agentes-ia-leads` planificada, sin lanzar (2026-09-14) |
+| [[meta/clientes/alpha-cycles/README\|Alpha Cycles]] | onboarding | 0 | USD 1.500-3.000 | Miami · leads a la bandeja única (A01-A03) · sin píxel · BM pendiente (mismo trámite que WhatsApp) · lanzar cuando el Módulo 1 esté en producción (2026-09-21) |
+| [[meta/clientes/hernando-ventas/README\|Hernando Ventas]] | onboarding | 0 | USD 300-600 | Formulario → planilla → motor de WhatsApp que ya existe · sin página FB confirmada, sin píxel · lanzar semana del 20-10 (2026-09-21) |
+| [[meta/clientes/don-blanco/README\|Don Blanco]] | onboarding | 0 | USD 150-300 por fecha | Encargos por WhatsApp, un conjunto por sucursal · Día de la Madre 18-10 → lanzar 6-8 de octubre (2026-09-21) |
+| [[meta/clientes/altius-nutrition/README\|Altius Nutrition]] | onboarding | 0 | USD 600-900 | Ventas en Tiendanube · **tienda cerrada con contraseña** · política de salud 22-07-2026 (2026-09-21) |
+| [[meta/clientes/innova/README\|Innova (interno)]] | pausado | 0 | — | Caso propio en pausa: foco en clientes (2026-09-21) |
 
 > La ficha comercial (contacto, cobro, alcance) vive en `clientes/`. Este índice solo sigue a los clientes con pauta.
 

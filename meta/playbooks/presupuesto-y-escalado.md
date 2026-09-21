@@ -3,7 +3,7 @@ tags:
   - meta
   - playbook
   - nivel-3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Presupuesto y escalado
@@ -26,7 +26,7 @@ Ejemplos: si esperamos un lead a USD 3, hacen falta unos USD 20/día por conjunt
 
 **Regla comercial:** si el cliente no puede poner ese presupuesto para el evento que quiere, se optimiza a un evento más arriba en el embudo (contacto, ver contenido) o se le dice que con esa pauta no vamos a poder prometer resultados. Mejor decirlo antes que después.
 
-Mínimo que aceptamos gestionar: el que haga que el fee de Innova no sea más grande que la pauta. Se define en *Clientes* (`clientes/clientes`).
+Mínimo que aceptamos gestionar: el que haga que el fee de Innova no sea más grande que la pauta. Se define en *Clientes* (`clientes/clientes`). Dato de plataforma: una cuenta argentina en pesos acepta como mínimo **ARS 1.504/día** (agosto 2026).
 
 ---
 

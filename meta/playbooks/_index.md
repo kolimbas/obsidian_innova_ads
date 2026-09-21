@@ -4,7 +4,7 @@ tags:
   - playbooks
   - hub
   - nivel-2
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # 📚 Playbooks de Meta Ads
@@ -30,6 +30,7 @@ updated: 2026-09-14
 | [[meta/playbooks/whatsapp-y-leads\|WhatsApp y leads]] | Click-to-WhatsApp, formularios instantáneos, calidad del lead, velocidad de respuesta. |
 | [[meta/playbooks/herramientas-ia\|Herramientas de IA]] | Conector oficial de Meta Ads para Claude: qué automatiza, qué no, y el camino n8n + API para lo que falta. |
 | [[meta/playbooks/glosario\|Glosario]] | Ads Manager en español ↔ documentación en inglés, término por término. |
+| [[meta/playbooks/catalogo-y-anuncios-dinamicos\|Catálogo y anuncios dinámicos]] | Referencia para e-commerce y concesionarias con muchos ítems. No aplica a los clientes actuales. |
 
 ---
 

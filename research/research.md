@@ -5,7 +5,7 @@ tags:
   - research
   - hub
   - nivel-1
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # 🔬 Research
@@ -18,6 +18,7 @@ updated: 2026-09-14
 
 | Fecha | Tema |
 | --- | --- |
+| [[research/2026-09-21-capacitacion\|2026-09-21]] | Capacitación: Andromeda, leads, click-to-WhatsApp, políticas de salud (22-07-2026), números de Argentina. Con fuentes. |
 | [[research/2026-09-14\|2026-09-14]] | Estado de Meta Ads al arrancar: qué cambió en los últimos años y qué implica para PyMEs |
 
 ---

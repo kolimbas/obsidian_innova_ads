@@ -3,7 +3,7 @@ tags:
   - meta
   - playbook
   - nivel-3
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Políticas y rechazos
@@ -19,7 +19,7 @@ updated: 2026-09-14
 | Tema | Qué no se puede | Cómo decirlo bien |
 | --- | --- | --- |
 | **Atributos personales** | Afirmar o dar a entender algo del usuario: "¿Sos diabético?", "¿Tenés deudas?", "Para mayores de 50" | Hablar del producto o del problema en general: "Tratamiento para diabetes tipo 2", "Refinanciación de deudas" |
-| **Salud y estética** | Antes-después, primeros planos de partes del cuerpo, promesas de resultado, "bajá 10 kilos" | Mostrar el servicio, el lugar, la persona que atiende; resultados como testimonio sin cifras milagrosas |
+| **Salud y estética** (política reescrita el **22-07-2026**: ahora se juzga la **afirmación**, no el producto) | Curar enfermedades, resultados en un plazo sin aclaración, primeros planos "pellizcando grasa", afirmaciones negativas sobre el cuerpo. Dieta, pérdida/ganancia de peso y procedimientos cosméticos: **solo 18+** | Antes/después ya no se rechaza solo; lo que importa es la promesa. Suplementos: "apoya la energía en el entrenamiento" pasa, "cura la fatiga" no. Claims cognitivos/hormonales/inmunes son zona gris. Los testimonios tienen las mismas reglas |
 | **Promesas** | "Garantizado", "ganá plata desde casa", ingresos concretos | Beneficio concreto y verificable |
 | **Página de destino** | Que no cargue, que no coincida con el anuncio, que pida datos sin política de privacidad | Landing rápida, misma oferta, política de privacidad visible |
 | **Alcohol, apuestas, cripto, finanzas** | Restricciones por país y edad; algunas requieren autorización previa | Verificar en la política antes de cotizar al cliente |

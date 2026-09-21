@@ -6,12 +6,12 @@ tags:
   - nivel-3
 client: innova
 campaign: 2026-10-agentes-ia-leads
-status: planificada
+status: pausada
 objetivo: clientes-potenciales
 presupuesto_diario: 20
 inicio: 2026-10-05
 fin: 2026-10-19
-updated: 2026-09-14
+updated: 2026-09-21
 ---
 
 # Brief — Innova · 2026-10 · agentes de IA · leads
