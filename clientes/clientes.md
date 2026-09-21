@@ -20,24 +20,9 @@ updated: 2026-09-21
 
 | Cliente | Objetivo | Estado | Fase | Pauta mensual |
 | --- | --- | --- | --- | --- |
-| [[clientes/alpha-cycles\|Alpha Cycles]] | Leads de motos en Miami → bandeja única | 🔵 Pre-venta · prioridad 1 | 0 | USD 1.500-3.000 |
-| [[clientes/hernando-ventas\|Hernando Ventas]] | Leads de dueños de tiendas online → motor de WhatsApp | 🔵 Pre-venta · prioridad 2 | 0 | USD 300-600 |
-| [[clientes/don-blanco\|Don Blanco]] | Encargos por WhatsApp · Día de la Madre | 🔵 Pre-venta · prioridad 3 (urgente) | 0 | USD 150-300 por fecha |
-| [[clientes/altius-nutrition\|Altius Nutrition]] | Ventas de suplementos en Tiendanube | 🔵 Pre-venta · bloqueado (tienda cerrada) | 0 | USD 600-900 |
 | [[clientes/innova\|Innova (interno)]] | Caso propio | ⏸️ En pausa (foco en clientes) | 3 | — |
 
 Estados posibles: 🔵 Pre-venta · 🟡 Setup · 🟢 Activo · ⏸️ Pausado · ⚫ Cerrado.
-
-### Orden de ataque (21-09-2026)
-
-1. **Don Blanco** primero por calendario: Día de la Madre es el 18-10; el pitch tiene que salir esta semana para lanzar el 6-8 de octubre.
-2. **Alpha Cycles**: la pauta era la fase 2 anunciada en el contrato; se propone ahora y se lanza cuando el Módulo 1 esté en producción.
-3. **Hernando Ventas**: se propone ahora; se lanza la semana del 20-10, cuando ella pueda atender reuniones.
-4. **Altius**: se propone "para el día que abra la tienda"; hoy está cerrada con contraseña.
-
-Siguientes candidatos: Trujillo Abogados (consultas por WhatsApp; falta el contacto) y GPT Landings (crédito: categoría especial de Meta, segmentación restringida).
-
-Ningún cliente actual lleva anuncios de catálogo ni dinámicos: campañas estándar con el material que ya tienen.
 
 ---
 
